@@ -1,3 +1,4 @@
+//Simplest possible event emitter
 // constructor
 function Emitter() {
 	this.events = {};
