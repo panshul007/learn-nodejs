@@ -1,0 +1,8880 @@
+{
+  "categories": [
+    {
+      "externalId": "7569",
+      "name": {
+        "de": "Obst & Gemüse"
+      },
+      "slug": {
+        "de": "obst-und-gemuese"
+      },
+      "description": {
+        "de": "Obst & Gemüse"
+      },
+      "orderHint": "10"
+    },
+    {
+      "externalId": "7570",
+      "name": {
+        "de": "Kühlprodukte"
+      },
+      "slug": {
+        "de": "kuehlprodukte"
+      },
+      "description": {
+        "de": "Kühlprodukte"
+      },
+      "orderHint": "20"
+    },
+    {
+      "externalId": "7572",
+      "name": {
+        "de": "Tiefkühlprodukte"
+      },
+      "slug": {
+        "de": "tiefkuehlprodukte"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte"
+      },
+      "orderHint": "30"
+    },
+    {
+      "externalId": "7571",
+      "name": {
+        "de": "Brot, Gebäck & Konditorei"
+      },
+      "slug": {
+        "de": "brot-gebaeck-und-konditorei"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei"
+      },
+      "orderHint": "40"
+    },
+    {
+      "externalId": "7573",
+      "name": {
+        "de": "Nahrungsmitel"
+      },
+      "slug": {
+        "de": "nahrungsmitel"
+      },
+      "description": {
+        "de": "Nahrungsmitel"
+      },
+      "orderHint": "50"
+    },
+    {
+      "externalId": "7574",
+      "name": {
+        "de": "Getränke"
+      },
+      "slug": {
+        "de": "getraenke"
+      },
+      "description": {
+        "de": "Getränke"
+      },
+      "orderHint": "60"
+    },
+    {
+      "externalId": "7575",
+      "name": {
+        "de": "Süßwaren-Salzgebäck"
+      },
+      "slug": {
+        "de": "suesswarensalzgebaeck"
+      },
+      "description": {
+        "de": "Süßwaren-Salzgebäck"
+      },
+      "orderHint": "70"
+    },
+    {
+      "externalId": "7576",
+      "name": {
+        "de": "Haushalt"
+      },
+      "slug": {
+        "de": "haushalt"
+      },
+      "description": {
+        "de": "Haushalt"
+      },
+      "orderHint": "80"
+    },
+    {
+      "externalId": "7577",
+      "name": {
+        "de": "Baby"
+      },
+      "slug": {
+        "de": "baby"
+      },
+      "description": {
+        "de": "Baby"
+      },
+      "orderHint": "90"
+    },
+    {
+      "externalId": "7578",
+      "name": {
+        "de": "Drogerie"
+      },
+      "slug": {
+        "de": "drogerie"
+      },
+      "description": {
+        "de": "Drogerie"
+      },
+      "orderHint": "100"
+    },
+    {
+      "externalId": "7579",
+      "name": {
+        "de": "Tiernahrung"
+      },
+      "slug": {
+        "de": "tiernahrung"
+      },
+      "description": {
+        "de": "Tiernahrung"
+      },
+      "orderHint": "110"
+    },
+    {
+      "externalId": "7580",
+      "name": {
+        "de": "Blumen-Geschenke"
+      },
+      "slug": {
+        "de": "blumengeschenke"
+      },
+      "description": {
+        "de": "Blumen-Geschenke"
+      },
+      "orderHint": "120"
+    },
+    {
+      "externalId": "8111",
+      "name": {
+        "de": "Brot & Gebäck"
+      },
+      "slug": {
+        "de": "brot-und-gebaeck"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Brot & Gebäck"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7571"
+      }
+    },
+    {
+      "externalId": "8417",
+      "name": {
+        "de": "Haarpflege"
+      },
+      "slug": {
+        "de": "haarpflege"
+      },
+      "description": {
+        "de": "Drogerie > Haarpflege"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7578"
+      }
+    },
+    {
+      "externalId": "8431",
+      "name": {
+        "de": "Babypflege"
+      },
+      "slug": {
+        "de": "babypflege"
+      },
+      "description": {
+        "de": "Baby > Babypflege"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7577"
+      }
+    },
+    {
+      "externalId": "8440",
+      "name": {
+        "de": "Putzen & Reinigen"
+      },
+      "slug": {
+        "de": "putzen-und-reinigen"
+      },
+      "description": {
+        "de": "Haushalt > Putzen & Reinigen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7576"
+      }
+    },
+    {
+      "externalId": "7581",
+      "name": {
+        "de": "Eis"
+      },
+      "slug": {
+        "de": "eis"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Eis"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7572"
+      }
+    },
+    {
+      "externalId": "7692",
+      "name": {
+        "de": "Obst"
+      },
+      "slug": {
+        "de": "obst"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7569"
+      }
+    },
+    {
+      "externalId": "7795",
+      "name": {
+        "de": "Wasser"
+      },
+      "slug": {
+        "de": "wasser"
+      },
+      "description": {
+        "de": "Getränke > Wasser"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7574"
+      }
+    },
+    {
+      "externalId": "8139",
+      "name": {
+        "de": "Fertiggerichte & Co"
+      },
+      "slug": {
+        "de": "fertiggerichte-und-co"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Fertiggerichte & Co"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7573"
+      }
+    },
+    {
+      "externalId": "7672",
+      "name": {
+        "de": "Milchprodukte, Käse & Eier"
+      },
+      "slug": {
+        "de": "milchprodukte-kaese-und-eier"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7570"
+      }
+    },
+    {
+      "externalId": "7762",
+      "name": {
+        "de": "Gekühlte Fertiggerichte"
+      },
+      "slug": {
+        "de": "gekuehlte-fertiggerichte"
+      },
+      "description": {
+        "de": "Kühlprodukte > Gekühlte Fertiggerichte"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7570"
+      }
+    },
+    {
+      "externalId": "7693",
+      "name": {
+        "de": "Nüsse, Kerne & Trockenfrüchte"
+      },
+      "slug": {
+        "de": "nuesse-kerne-und-trockenfruechte"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7569"
+      }
+    },
+    {
+      "externalId": "8418",
+      "name": {
+        "de": "Körper- & Gesichtspflege"
+      },
+      "slug": {
+        "de": "koerper-und-gesichtspflege"
+      },
+      "description": {
+        "de": "Drogerie > Körper- & Gesichtspflege"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7578"
+      }
+    },
+    {
+      "externalId": "8432",
+      "name": {
+        "de": "Windeln & Tücher"
+      },
+      "slug": {
+        "de": "windeln-und-tuecher"
+      },
+      "description": {
+        "de": "Baby > Windeln & Tücher"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7577"
+      }
+    },
+    {
+      "externalId": "8467",
+      "name": {
+        "de": "Waschen"
+      },
+      "slug": {
+        "de": "waschen"
+      },
+      "description": {
+        "de": "Haushalt > Waschen"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7576"
+      }
+    },
+    {
+      "externalId": "7796",
+      "name": {
+        "de": "Cola, Limonaden & Energy Drinks"
+      },
+      "slug": {
+        "de": "cola-limonaden-und-energy-drinks"
+      },
+      "description": {
+        "de": "Getränke > Cola, Limonaden & Energy Drinks"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7574"
+      }
+    },
+    {
+      "externalId": "8140",
+      "name": {
+        "de": "Konserven"
+      },
+      "slug": {
+        "de": "konserven"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7573"
+      }
+    },
+    {
+      "externalId": "7582",
+      "name": {
+        "de": "Fertiggerichte & Knödel"
+      },
+      "slug": {
+        "de": "fertiggerichte-und-knoedel"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7572"
+      }
+    },
+    {
+      "externalId": "8115",
+      "name": {
+        "de": "Knäckebrot & Zwieback"
+      },
+      "slug": {
+        "de": "knaeckebrot-und-zwieback"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Knäckebrot & Zwieback"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7571"
+      }
+    },
+    {
+      "externalId": "7763",
+      "name": {
+        "de": "Salate, Aufstriche & Antipasti (Gabelbissen)"
+      },
+      "slug": {
+        "de": "salate-aufstriche-und-antipasti-gabelbissen"
+      },
+      "description": {
+        "de": "Kühlprodukte > Salate, Aufstriche & Antipasti (Gabelbissen)"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7570"
+      }
+    },
+    {
+      "externalId": "8112",
+      "name": {
+        "de": "Toastbrot & Aufbackbrötchen"
+      },
+      "slug": {
+        "de": "toastbrot-und-aufbackbroetchen"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Toastbrot & Aufbackbrötchen"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7571"
+      }
+    },
+    {
+      "externalId": "7694",
+      "name": {
+        "de": "Gemüse"
+      },
+      "slug": {
+        "de": "gemuese"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7569"
+      }
+    },
+    {
+      "externalId": "8462",
+      "name": {
+        "de": "Hygiene- & Toilettenpapier"
+      },
+      "slug": {
+        "de": "hygiene-und-toilettenpapier"
+      },
+      "description": {
+        "de": "Haushalt > Hygiene- & Toilettenpapier"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7576"
+      }
+    },
+    {
+      "externalId": "8141",
+      "name": {
+        "de": "Mehl, Zucker & Backzutaten"
+      },
+      "slug": {
+        "de": "mehl-zucker-und-backzutaten"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Mehl, Zucker & Backzutaten"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7573"
+      }
+    },
+    {
+      "externalId": "8433",
+      "name": {
+        "de": "Flaschen, Sauger & Zubehör"
+      },
+      "slug": {
+        "de": "flaschen-sauger-und-zubehoer"
+      },
+      "description": {
+        "de": "Baby > Flaschen, Sauger & Zubehör"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7577"
+      }
+    },
+    {
+      "externalId": "7583",
+      "name": {
+        "de": "Fisch & Meeresfrüchte"
+      },
+      "slug": {
+        "de": "fisch-und-meeresfruechte"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fisch & Meeresfrüchte"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7572"
+      }
+    },
+    {
+      "externalId": "8419",
+      "name": {
+        "de": "Schminken"
+      },
+      "slug": {
+        "de": "schminken"
+      },
+      "description": {
+        "de": "Drogerie > Schminken"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7578"
+      }
+    },
+    {
+      "externalId": "7797",
+      "name": {
+        "de": "Fruchtsäfte & Nektare"
+      },
+      "slug": {
+        "de": "fruchtsaefte-und-nektare"
+      },
+      "description": {
+        "de": "Getränke > Fruchtsäfte & Nektare"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7574"
+      }
+    },
+    {
+      "externalId": "8142",
+      "name": {
+        "de": "Reis, Teigwaren, Sugo & Pesto"
+      },
+      "slug": {
+        "de": "reis-teigwaren-sugo-und-pesto"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Reis, Teigwaren, Sugo & Pesto"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7573"
+      }
+    },
+    {
+      "externalId": "7764",
+      "name": {
+        "de": "Fisch & Meeresfrüchte"
+      },
+      "slug": {
+        "de": "fisch-und-meeresfruechte"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fisch & Meeresfrüchte"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7570"
+      }
+    },
+    {
+      "externalId": "7584",
+      "name": {
+        "de": "Fleisch & Geflügel"
+      },
+      "slug": {
+        "de": "fleisch-und-gefluegel"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fleisch & Geflügel"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7572"
+      }
+    },
+    {
+      "externalId": "8113",
+      "name": {
+        "de": "Striezel, Brioche & Croissants"
+      },
+      "slug": {
+        "de": "striezel-brioche-und-croissants"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Striezel, Brioche & Croissants"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7571"
+      }
+    },
+    {
+      "externalId": "8434",
+      "name": {
+        "de": "Babynahrung"
+      },
+      "slug": {
+        "de": "babynahrung"
+      },
+      "description": {
+        "de": "Baby > Babynahrung"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7577"
+      }
+    },
+    {
+      "externalId": "8463",
+      "name": {
+        "de": "Küchen- & Haushaltsfolien"
+      },
+      "slug": {
+        "de": "kuechen-und-haushaltsfolien"
+      },
+      "description": {
+        "de": "Haushalt > Küchen- & Haushaltsfolien"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7576"
+      }
+    },
+    {
+      "externalId": "7695",
+      "name": {
+        "de": "Obst & Gemüsesäfte"
+      },
+      "slug": {
+        "de": "obst-und-gemuesesaefte"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst & Gemüsesäfte"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7569"
+      }
+    },
+    {
+      "externalId": "7798",
+      "name": {
+        "de": "Kaffee, Tee & Kakao"
+      },
+      "slug": {
+        "de": "kaffee-tee-und-kakao"
+      },
+      "description": {
+        "de": "Getränke > Kaffee, Tee & Kakao"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7574"
+      }
+    },
+    {
+      "externalId": "8143",
+      "name": {
+        "de": "Essig, Öl, Gewürze & Salz"
+      },
+      "slug": {
+        "de": "essig-oel-gewuerze-und-salz"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7573"
+      }
+    },
+    {
+      "externalId": "7765",
+      "name": {
+        "de": "Fleisch & Geflügel"
+      },
+      "slug": {
+        "de": "fleisch-und-gefluegel"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7570"
+      }
+    },
+    {
+      "externalId": "7585",
+      "name": {
+        "de": "Gemüse & Pilze"
+      },
+      "slug": {
+        "de": "gemuese-und-pilze"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7572"
+      }
+    },
+    {
+      "externalId": "8114",
+      "name": {
+        "de": "Konditorei"
+      },
+      "slug": {
+        "de": "konditorei"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Konditorei"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7571"
+      }
+    },
+    {
+      "externalId": "8464",
+      "name": {
+        "de": "Raumdüfte & Kerzen"
+      },
+      "slug": {
+        "de": "raumduefte-und-kerzen"
+      },
+      "description": {
+        "de": "Haushalt > Raumdüfte & Kerzen"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7576"
+      }
+    },
+    {
+      "externalId": "7799",
+      "name": {
+        "de": "Bier & Radler"
+      },
+      "slug": {
+        "de": "bier-und-radler"
+      },
+      "description": {
+        "de": "Getränke > Bier & Radler"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7574"
+      }
+    },
+    {
+      "externalId": "7586",
+      "name": {
+        "de": "Pommes frites, Kroketten & Co."
+      },
+      "slug": {
+        "de": "pommes-frites-kroketten-und-co"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Pommes frites, Kroketten & Co."
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7572"
+      }
+    },
+    {
+      "externalId": "7766",
+      "name": {
+        "de": "Wurst, Schinken & Speck"
+      },
+      "slug": {
+        "de": "wurst-schinken-und-speck"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7570"
+      }
+    },
+    {
+      "externalId": "8465",
+      "name": {
+        "de": "Pflanzen & Insektenschutz"
+      },
+      "slug": {
+        "de": "pflanzen-und-insektenschutz"
+      },
+      "description": {
+        "de": "Haushalt > Pflanzen & Insektenschutz"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7576"
+      }
+    },
+    {
+      "externalId": "8144",
+      "name": {
+        "de": "Dressings, Saucen, Senf & Ketchup"
+      },
+      "slug": {
+        "de": "dressings-saucen-senf-und-ketchup"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Dressings, Saucen, Senf & Ketchup"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7573"
+      }
+    },
+    {
+      "externalId": "7800",
+      "name": {
+        "de": "Wein, Sekt & Champagner"
+      },
+      "slug": {
+        "de": "wein-sekt-und-champagner"
+      },
+      "description": {
+        "de": "Getränke > Wein, Sekt & Champagner"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7574"
+      }
+    },
+    {
+      "externalId": "8466",
+      "name": {
+        "de": "Haushaltsgeräte & Zubehör"
+      },
+      "slug": {
+        "de": "haushaltsgeraete-und-zubehoer"
+      },
+      "description": {
+        "de": "Haushalt > Haushaltsgeräte & Zubehör"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7576"
+      }
+    },
+    {
+      "externalId": "7801",
+      "name": {
+        "de": "Spirituosen"
+      },
+      "slug": {
+        "de": "spirituosen"
+      },
+      "description": {
+        "de": "Getränke > Spirituosen"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7574"
+      }
+    },
+    {
+      "externalId": "7587",
+      "name": {
+        "de": "Torten, Mehlspeisen & Früchte"
+      },
+      "slug": {
+        "de": "torten-mehlspeisen-und-fruechte"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Torten, Mehlspeisen & Früchte"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7572"
+      }
+    },
+    {
+      "externalId": "7767",
+      "name": {
+        "de": "Feinkostplatten & Brötchen"
+      },
+      "slug": {
+        "de": "feinkostplatten-und-broetchen"
+      },
+      "description": {
+        "de": "Kühlprodukte > Feinkostplatten & Brötchen"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7570"
+      }
+    },
+    {
+      "externalId": "8145",
+      "name": {
+        "de": "Suppen"
+      },
+      "slug": {
+        "de": "suppen"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Suppen"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7573"
+      }
+    },
+    {
+      "externalId": "8146",
+      "name": {
+        "de": "Zerealien, Müsli & Haferflocken"
+      },
+      "slug": {
+        "de": "zerealien-muesli-und-haferflocken"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Zerealien, Müsli & Haferflocken"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7573"
+      }
+    },
+    {
+      "externalId": "7588",
+      "name": {
+        "de": "Gebäck, Brot & Teige"
+      },
+      "slug": {
+        "de": "gebaeck-brot-und-teige"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gebäck, Brot & Teige"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7572"
+      }
+    },
+    {
+      "externalId": "8147",
+      "name": {
+        "de": "Süße Brotaufstriche"
+      },
+      "slug": {
+        "de": "suesse-brotaufstriche"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Süße Brotaufstriche"
+      },
+      "orderHint": "90",
+      "parent": {
+        "id": "7573"
+      }
+    },
+    {
+      "externalId": "8101",
+      "name": {
+        "de": "Torten tiefgekühlt"
+      },
+      "slug": {
+        "de": "torten-tiefgekuehlt"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Torten, Mehlspeisen & Früchte > Torten tiefgekühlt"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7587"
+      }
+    },
+    {
+      "externalId": "8102",
+      "name": {
+        "de": "Mehlspeisen & Knödel"
+      },
+      "slug": {
+        "de": "mehlspeisen-und-knoedel"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Torten, Mehlspeisen & Früchte > Mehlspeisen & Knödel"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7587"
+      }
+    },
+    {
+      "externalId": "8103",
+      "name": {
+        "de": "Desserts"
+      },
+      "slug": {
+        "de": "desserts"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Torten, Mehlspeisen & Früchte > Desserts"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7587"
+      }
+    },
+    {
+      "externalId": "8104",
+      "name": {
+        "de": "Früchte"
+      },
+      "slug": {
+        "de": "fruechte"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Torten, Mehlspeisen & Früchte > Früchte"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7587"
+      }
+    },
+    {
+      "externalId": "8108",
+      "name": {
+        "de": "Brot"
+      },
+      "slug": {
+        "de": "brot"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gebäck, Brot & Teige > Brot"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7588"
+      }
+    },
+    {
+      "externalId": "8109",
+      "name": {
+        "de": "Gebäck"
+      },
+      "slug": {
+        "de": "gebaeck"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gebäck, Brot & Teige > Gebäck"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7588"
+      }
+    },
+    {
+      "externalId": "8110",
+      "name": {
+        "de": "Teige"
+      },
+      "slug": {
+        "de": "teige"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gebäck, Brot & Teige > Teige"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7588"
+      }
+    },
+    {
+      "externalId": "8148",
+      "name": {
+        "de": "Nudeln, Reisgerichte & Co"
+      },
+      "slug": {
+        "de": "nudeln-reisgerichte-und-co"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Fertiggerichte & Co > Nudeln, Reisgerichte & Co"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8139"
+      }
+    },
+    {
+      "externalId": "8160",
+      "name": {
+        "de": "Gemüsekonserven"
+      },
+      "slug": {
+        "de": "gemuesekonserven"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Gemüsekonserven"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8140"
+      }
+    },
+    {
+      "externalId": "8445",
+      "name": {
+        "de": "Essig"
+      },
+      "slug": {
+        "de": "essig"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Essig"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8143"
+      }
+    },
+    {
+      "externalId": "7802",
+      "name": {
+        "de": "Mineralwasser"
+      },
+      "slug": {
+        "de": "mineralwasser"
+      },
+      "description": {
+        "de": "Getränke > Wasser > Mineralwasser"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7795"
+      }
+    },
+    {
+      "externalId": "7808",
+      "name": {
+        "de": "Rotwein"
+      },
+      "slug": {
+        "de": "rotwein"
+      },
+      "description": {
+        "de": "Getränke > Wein, Sekt & Champagner > Rotwein"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7800"
+      }
+    },
+    {
+      "externalId": "8441",
+      "name": {
+        "de": "Geschirrspülmittel"
+      },
+      "slug": {
+        "de": "geschirrspuelmittel"
+      },
+      "description": {
+        "de": "Haushalt > Putzen & Reinigen > Geschirrspülmittel"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8440"
+      }
+    },
+    {
+      "externalId": "8468",
+      "name": {
+        "de": "Geschirr"
+      },
+      "slug": {
+        "de": "geschirr"
+      },
+      "description": {
+        "de": "Haushalt > Haushaltsgeräte & Zubehör > Geschirr"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8466"
+      }
+    },
+    {
+      "externalId": "8435",
+      "name": {
+        "de": "Gläschen & Menüs"
+      },
+      "slug": {
+        "de": "glaeschen-und-menues"
+      },
+      "description": {
+        "de": "Baby > Babynahrung > Gläschen & Menüs"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8434"
+      }
+    },
+    {
+      "externalId": "8420",
+      "name": {
+        "de": "Shampoo & Pflege"
+      },
+      "slug": {
+        "de": "shampoo-und-pflege"
+      },
+      "description": {
+        "de": "Drogerie > Haarpflege > Shampoo & Pflege"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8417"
+      }
+    },
+    {
+      "externalId": "7981",
+      "name": {
+        "de": "Rindfleisch"
+      },
+      "slug": {
+        "de": "rindfleisch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Rindfleisch"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7765"
+      }
+    },
+    {
+      "externalId": "8030",
+      "name": {
+        "de": "Schinken"
+      },
+      "slug": {
+        "de": "schinken"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Schinken"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7766"
+      }
+    },
+    {
+      "externalId": "8116",
+      "name": {
+        "de": "Schwarz- & Mischbrot"
+      },
+      "slug": {
+        "de": "schwarz-und-mischbrot"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Brot & Gebäck > Schwarz- & Mischbrot"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8111"
+      }
+    },
+    {
+      "externalId": "8125",
+      "name": {
+        "de": "Toastbrot"
+      },
+      "slug": {
+        "de": "toastbrot"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Toastbrot & Aufbackbrötchen > Toastbrot"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8112"
+      }
+    },
+    {
+      "externalId": "8129",
+      "name": {
+        "de": "Striezel"
+      },
+      "slug": {
+        "de": "striezel"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Striezel, Brioche & Croissants > Striezel"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8113"
+      }
+    },
+    {
+      "externalId": "8132",
+      "name": {
+        "de": "Plunder & Golatschen"
+      },
+      "slug": {
+        "de": "plunder-und-golatschen"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Konditorei > Plunder & Golatschen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8114"
+      }
+    },
+    {
+      "externalId": "8123",
+      "name": {
+        "de": "Knäckebrot"
+      },
+      "slug": {
+        "de": "knaeckebrot"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Knäckebrot & Zwieback > Knäckebrot"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8115"
+      }
+    },
+    {
+      "externalId": "7589",
+      "name": {
+        "de": "Eisbecher"
+      },
+      "slug": {
+        "de": "eisbecher"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Eis > Eisbecher"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7581"
+      }
+    },
+    {
+      "externalId": "8069",
+      "name": {
+        "de": "Fleisch & Geflügel"
+      },
+      "slug": {
+        "de": "fleisch-und-gefluegel"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel > Fleisch & Geflügel"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7582"
+      }
+    },
+    {
+      "externalId": "8070",
+      "name": {
+        "de": "Fisch & Meeresfrüchte"
+      },
+      "slug": {
+        "de": "fisch-und-meeresfruechte"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel > Fisch & Meeresfrüchte"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7582"
+      }
+    },
+    {
+      "externalId": "8083",
+      "name": {
+        "de": "Fisch natur"
+      },
+      "slug": {
+        "de": "fisch-natur"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fisch & Meeresfrüchte > Fisch natur"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7583"
+      }
+    },
+    {
+      "externalId": "8087",
+      "name": {
+        "de": "Ente & Gans"
+      },
+      "slug": {
+        "de": "ente-und-gans"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fleisch & Geflügel > Ente & Gans"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7584"
+      }
+    },
+    {
+      "externalId": "7591",
+      "name": {
+        "de": "Erbsen, Karotten & Sprossen"
+      },
+      "slug": {
+        "de": "erbsen-karotten-und-sprossen"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Erbsen, Karotten & Sprossen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7585"
+      }
+    },
+    {
+      "externalId": "8098",
+      "name": {
+        "de": "Pommes frites"
+      },
+      "slug": {
+        "de": "pommes-frites"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Pommes frites, Kroketten & Co. > Pommes frites"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7586"
+      }
+    },
+    {
+      "externalId": "7696",
+      "name": {
+        "de": "Zitrusfrüchte"
+      },
+      "slug": {
+        "de": "zitrusfruechte"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Zitrusfrüchte"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7692"
+      }
+    },
+    {
+      "externalId": "7744",
+      "name": {
+        "de": "Nüsse"
+      },
+      "slug": {
+        "de": "nuesse"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Nüsse"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7693"
+      }
+    },
+    {
+      "externalId": "7840",
+      "name": {
+        "de": "Salat"
+      },
+      "slug": {
+        "de": "salat"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Salat"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7694"
+      }
+    },
+    {
+      "externalId": "7904",
+      "name": {
+        "de": "Obstsäfte"
+      },
+      "slug": {
+        "de": "obstsaefte"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst & Gemüsesäfte > Obstsäfte"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7695"
+      }
+    },
+    {
+      "externalId": "7771",
+      "name": {
+        "de": "Milch"
+      },
+      "slug": {
+        "de": "milch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Milch"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7672"
+      }
+    },
+    {
+      "externalId": "7934",
+      "name": {
+        "de": "Asiatisch"
+      },
+      "slug": {
+        "de": "asiatisch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Gekühlte Fertiggerichte > Asiatisch"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7762"
+      }
+    },
+    {
+      "externalId": "7946",
+      "name": {
+        "de": "Aufstriche"
+      },
+      "slug": {
+        "de": "aufstriche"
+      },
+      "description": {
+        "de": "Kühlprodukte > Salate, Aufstriche & Antipasti (Gabelbissen) > Aufstriche"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7763"
+      }
+    },
+    {
+      "externalId": "7953",
+      "name": {
+        "de": "Marinierte Fische"
+      },
+      "slug": {
+        "de": "marinierte-fische"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fisch & Meeresfrüchte > Marinierte Fische"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7764"
+      }
+    },
+    {
+      "externalId": "8099",
+      "name": {
+        "de": "Kroketten"
+      },
+      "slug": {
+        "de": "kroketten"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Pommes frites, Kroketten & Co. > Kroketten"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7586"
+      }
+    },
+    {
+      "externalId": "8154",
+      "name": {
+        "de": "Gulasch & Reisfleisch"
+      },
+      "slug": {
+        "de": "gulasch-und-reisfleisch"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Fertiggerichte & Co > Gulasch & Reisfleisch"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8139"
+      }
+    },
+    {
+      "externalId": "8161",
+      "name": {
+        "de": "Obst & Kompott"
+      },
+      "slug": {
+        "de": "obst-und-kompott"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Obst & Kompott"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8140"
+      }
+    },
+    {
+      "externalId": "8446",
+      "name": {
+        "de": "Öle"
+      },
+      "slug": {
+        "de": "oele"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Öle"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8143"
+      }
+    },
+    {
+      "externalId": "7803",
+      "name": {
+        "de": "Mineralwasser mit Geschmack"
+      },
+      "slug": {
+        "de": "mineralwasser-mit-geschmack"
+      },
+      "description": {
+        "de": "Getränke > Wasser > Mineralwasser mit Geschmack"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7795"
+      }
+    },
+    {
+      "externalId": "7809",
+      "name": {
+        "de": "Weißwein"
+      },
+      "slug": {
+        "de": "weisswein"
+      },
+      "description": {
+        "de": "Getränke > Wein, Sekt & Champagner > Weißwein"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7800"
+      }
+    },
+    {
+      "externalId": "8469",
+      "name": {
+        "de": "Gläser"
+      },
+      "slug": {
+        "de": "glaeser"
+      },
+      "description": {
+        "de": "Haushalt > Haushaltsgeräte & Zubehör > Gläser"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8466"
+      }
+    },
+    {
+      "externalId": "8436",
+      "name": {
+        "de": "Milch & Breie"
+      },
+      "slug": {
+        "de": "milch-und-breie"
+      },
+      "description": {
+        "de": "Baby > Babynahrung > Milch & Breie"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8434"
+      }
+    },
+    {
+      "externalId": "8421",
+      "name": {
+        "de": "Styling"
+      },
+      "slug": {
+        "de": "styling"
+      },
+      "description": {
+        "de": "Drogerie > Haarpflege > Styling"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8417"
+      }
+    },
+    {
+      "externalId": "8031",
+      "name": {
+        "de": "Geflügelschinken"
+      },
+      "slug": {
+        "de": "gefluegelschinken"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Geflügelschinken"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7766"
+      }
+    },
+    {
+      "externalId": "8117",
+      "name": {
+        "de": "Semmel, Baguette & Weißbrot"
+      },
+      "slug": {
+        "de": "semmel-baguette-und-weissbrot"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Brot & Gebäck > Semmel, Baguette & Weißbrot"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8111"
+      }
+    },
+    {
+      "externalId": "8126",
+      "name": {
+        "de": "Aufbackbrötchen & Baguette"
+      },
+      "slug": {
+        "de": "aufbackbroetchen-und-baguette"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Toastbrot & Aufbackbrötchen > Aufbackbrötchen & Baguette"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8112"
+      }
+    },
+    {
+      "externalId": "8130",
+      "name": {
+        "de": "Brioche"
+      },
+      "slug": {
+        "de": "brioche"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Striezel, Brioche & Croissants > Brioche"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8113"
+      }
+    },
+    {
+      "externalId": "8133",
+      "name": {
+        "de": "Kuchen"
+      },
+      "slug": {
+        "de": "kuchen"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Konditorei > Kuchen"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8114"
+      }
+    },
+    {
+      "externalId": "8124",
+      "name": {
+        "de": "Zwieback"
+      },
+      "slug": {
+        "de": "zwieback"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Knäckebrot & Zwieback > Zwieback"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8115"
+      }
+    },
+    {
+      "externalId": "7590",
+      "name": {
+        "de": "Eisstanitzel & Stieleis"
+      },
+      "slug": {
+        "de": "eisstanitzel-und-stieleis"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Eis > Eisstanitzel & Stieleis"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7581"
+      }
+    },
+    {
+      "externalId": "8071",
+      "name": {
+        "de": "Pasta, Lasagne & Co"
+      },
+      "slug": {
+        "de": "pasta-lasagne-und-co"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel > Pasta, Lasagne & Co"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7582"
+      }
+    },
+    {
+      "externalId": "8084",
+      "name": {
+        "de": "Fisch paniert"
+      },
+      "slug": {
+        "de": "fisch-paniert"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fisch & Meeresfrüchte > Fisch paniert"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7583"
+      }
+    },
+    {
+      "externalId": "8088",
+      "name": {
+        "de": "Huhn & Pute"
+      },
+      "slug": {
+        "de": "huhn-und-pute"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fleisch & Geflügel > Huhn & Pute"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7584"
+      }
+    },
+    {
+      "externalId": "7592",
+      "name": {
+        "de": "Spinat"
+      },
+      "slug": {
+        "de": "spinat"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Spinat"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7585"
+      }
+    },
+    {
+      "externalId": "7697",
+      "name": {
+        "de": "Äpfel & Birnen"
+      },
+      "slug": {
+        "de": "aepfel-und-birnen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Äpfel & Birnen"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7692"
+      }
+    },
+    {
+      "externalId": "7745",
+      "name": {
+        "de": "Kerne"
+      },
+      "slug": {
+        "de": "kerne"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Kerne"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7693"
+      }
+    },
+    {
+      "externalId": "7841",
+      "name": {
+        "de": "Erdäpfel"
+      },
+      "slug": {
+        "de": "erdaepfel"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Erdäpfel"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7694"
+      }
+    },
+    {
+      "externalId": "7905",
+      "name": {
+        "de": "Gemüsesäfte"
+      },
+      "slug": {
+        "de": "gemuesesaefte"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst & Gemüsesäfte > Gemüsesäfte"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7695"
+      }
+    },
+    {
+      "externalId": "7772",
+      "name": {
+        "de": "Butter & Margarine"
+      },
+      "slug": {
+        "de": "butter-und-margarine"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Butter & Margarine"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7672"
+      }
+    },
+    {
+      "externalId": "7935",
+      "name": {
+        "de": "International"
+      },
+      "slug": {
+        "de": "international"
+      },
+      "description": {
+        "de": "Kühlprodukte > Gekühlte Fertiggerichte > International"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7762"
+      }
+    },
+    {
+      "externalId": "7947",
+      "name": {
+        "de": "Salate & Gabelbissen"
+      },
+      "slug": {
+        "de": "salate-und-gabelbissen"
+      },
+      "description": {
+        "de": "Kühlprodukte > Salate, Aufstriche & Antipasti (Gabelbissen) > Salate & Gabelbissen"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7763"
+      }
+    },
+    {
+      "externalId": "7954",
+      "name": {
+        "de": "Meeresfrüchte"
+      },
+      "slug": {
+        "de": "meeresfruechte"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fisch & Meeresfrüchte > Meeresfrüchte"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7764"
+      }
+    },
+    {
+      "externalId": "7964",
+      "name": {
+        "de": "Schweinefleisch"
+      },
+      "slug": {
+        "de": "schweinefleisch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Schweinefleisch"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7765"
+      }
+    },
+    {
+      "externalId": "8100",
+      "name": {
+        "de": "Sonstige Kartoffelprodukte"
+      },
+      "slug": {
+        "de": "sonstige-kartoffelprodukte"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Pommes frites, Kroketten & Co. > Sonstige Kartoffelprodukte"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7586"
+      }
+    },
+    {
+      "externalId": "8149",
+      "name": {
+        "de": "Bohnen, Linsen & Co"
+      },
+      "slug": {
+        "de": "bohnen-linsen-und-co"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Fertiggerichte & Co > Bohnen, Linsen & Co"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8139"
+      }
+    },
+    {
+      "externalId": "8162",
+      "name": {
+        "de": "Sauerwaren"
+      },
+      "slug": {
+        "de": "sauerwaren"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Sauerwaren"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8140"
+      }
+    },
+    {
+      "externalId": "8447",
+      "name": {
+        "de": "Salz"
+      },
+      "slug": {
+        "de": "salz"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Salz"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8143"
+      }
+    },
+    {
+      "externalId": "7804",
+      "name": {
+        "de": "Sodawasser"
+      },
+      "slug": {
+        "de": "sodawasser"
+      },
+      "description": {
+        "de": "Getränke > Wasser > Sodawasser"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7795"
+      }
+    },
+    {
+      "externalId": "7810",
+      "name": {
+        "de": "Rosèwein"
+      },
+      "slug": {
+        "de": "rosewein"
+      },
+      "description": {
+        "de": "Getränke > Wein, Sekt & Champagner > Rosèwein"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7800"
+      }
+    },
+    {
+      "externalId": "8470",
+      "name": {
+        "de": "Besteck"
+      },
+      "slug": {
+        "de": "besteck"
+      },
+      "description": {
+        "de": "Haushalt > Haushaltsgeräte & Zubehör > Besteck"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8466"
+      }
+    },
+    {
+      "externalId": "8437",
+      "name": {
+        "de": "Tee, Säfte & Snacks"
+      },
+      "slug": {
+        "de": "tee-saefte-und-snacks"
+      },
+      "description": {
+        "de": "Baby > Babynahrung > Tee, Säfte & Snacks"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8434"
+      }
+    },
+    {
+      "externalId": "8422",
+      "name": {
+        "de": "Colorationen"
+      },
+      "slug": {
+        "de": "colorationen"
+      },
+      "description": {
+        "de": "Drogerie > Haarpflege > Colorationen"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8417"
+      }
+    },
+    {
+      "externalId": "8034",
+      "name": {
+        "de": "Wurst"
+      },
+      "slug": {
+        "de": "wurst"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Wurst"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7766"
+      }
+    },
+    {
+      "externalId": "8118",
+      "name": {
+        "de": "Laugengebäck & Laugenbrezn"
+      },
+      "slug": {
+        "de": "laugengebaeck-und-laugenbrezn"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Brot & Gebäck > Laugengebäck & Laugenbrezn"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8111"
+      }
+    },
+    {
+      "externalId": "8131",
+      "name": {
+        "de": "Croissants"
+      },
+      "slug": {
+        "de": "croissants"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Striezel, Brioche & Croissants > Croissants"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8113"
+      }
+    },
+    {
+      "externalId": "8134",
+      "name": {
+        "de": "Strudel & Rouladen"
+      },
+      "slug": {
+        "de": "strudel-und-rouladen"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Konditorei > Strudel & Rouladen"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8114"
+      }
+    },
+    {
+      "externalId": "8067",
+      "name": {
+        "de": "Eiswaffeln & Saucen"
+      },
+      "slug": {
+        "de": "eiswaffeln-und-saucen"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Eis > Eiswaffeln & Saucen"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7581"
+      }
+    },
+    {
+      "externalId": "8072",
+      "name": {
+        "de": "Knödel"
+      },
+      "slug": {
+        "de": "knoedel"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel > Knödel"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7582"
+      }
+    },
+    {
+      "externalId": "8085",
+      "name": {
+        "de": "Meeresfrüchte natur"
+      },
+      "slug": {
+        "de": "meeresfruechte-natur"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fisch & Meeresfrüchte > Meeresfrüchte natur"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7583"
+      }
+    },
+    {
+      "externalId": "8089",
+      "name": {
+        "de": "Rindfleisch"
+      },
+      "slug": {
+        "de": "rindfleisch"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fleisch & Geflügel > Rindfleisch"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7584"
+      }
+    },
+    {
+      "externalId": "7593",
+      "name": {
+        "de": "Rotkraut"
+      },
+      "slug": {
+        "de": "rotkraut"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Rotkraut"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7585"
+      }
+    },
+    {
+      "externalId": "7698",
+      "name": {
+        "de": "Bananen"
+      },
+      "slug": {
+        "de": "bananen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Bananen"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7692"
+      }
+    },
+    {
+      "externalId": "7746",
+      "name": {
+        "de": "Trockenfrüchte"
+      },
+      "slug": {
+        "de": "trockenfruechte"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Trockenfrüchte"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7693"
+      }
+    },
+    {
+      "externalId": "7842",
+      "name": {
+        "de": "Paprika, Pfeffer & Chili"
+      },
+      "slug": {
+        "de": "paprika-pfeffer-und-chili"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Paprika, Pfeffer & Chili"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7694"
+      }
+    },
+    {
+      "externalId": "7773",
+      "name": {
+        "de": "Käse"
+      },
+      "slug": {
+        "de": "kaese"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7672"
+      }
+    },
+    {
+      "externalId": "7936",
+      "name": {
+        "de": "Kartoffelgerichte"
+      },
+      "slug": {
+        "de": "kartoffelgerichte"
+      },
+      "description": {
+        "de": "Kühlprodukte > Gekühlte Fertiggerichte > Kartoffelgerichte"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7762"
+      }
+    },
+    {
+      "externalId": "7948",
+      "name": {
+        "de": "Antipasti"
+      },
+      "slug": {
+        "de": "antipasti"
+      },
+      "description": {
+        "de": "Kühlprodukte > Salate, Aufstriche & Antipasti (Gabelbissen) > Antipasti"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7763"
+      }
+    },
+    {
+      "externalId": "7955",
+      "name": {
+        "de": "Räucherfisch & Räucherlachs"
+      },
+      "slug": {
+        "de": "raeucherfisch-und-raeucherlachs"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fisch & Meeresfrüchte > Räucherfisch & Räucherlachs"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7764"
+      }
+    },
+    {
+      "externalId": "7965",
+      "name": {
+        "de": "Kalbfleisch"
+      },
+      "slug": {
+        "de": "kalbfleisch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Kalbfleisch"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7765"
+      }
+    },
+    {
+      "externalId": "7937",
+      "name": {
+        "de": "Pizza, Pasta & Co"
+      },
+      "slug": {
+        "de": "pizza-pasta-und-co"
+      },
+      "description": {
+        "de": "Kühlprodukte > Gekühlte Fertiggerichte > Pizza, Pasta & Co"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7762"
+      }
+    },
+    {
+      "externalId": "7774",
+      "name": {
+        "de": "Joghurt & Joghurtdrinks"
+      },
+      "slug": {
+        "de": "joghurt-und-joghurtdrinks"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Joghurt & Joghurtdrinks"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7672"
+      }
+    },
+    {
+      "externalId": "7956",
+      "name": {
+        "de": "Seelachs"
+      },
+      "slug": {
+        "de": "seelachs"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fisch & Meeresfrüchte > Seelachs"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7764"
+      }
+    },
+    {
+      "externalId": "7966",
+      "name": {
+        "de": "Lammfleisch"
+      },
+      "slug": {
+        "de": "lammfleisch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Lammfleisch"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7765"
+      }
+    },
+    {
+      "externalId": "8152",
+      "name": {
+        "de": "Suppen"
+      },
+      "slug": {
+        "de": "suppen"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Fertiggerichte & Co > Suppen"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8139"
+      }
+    },
+    {
+      "externalId": "8163",
+      "name": {
+        "de": "Antipasti"
+      },
+      "slug": {
+        "de": "antipasti"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Antipasti"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8140"
+      }
+    },
+    {
+      "externalId": "8448",
+      "name": {
+        "de": "Gewürze"
+      },
+      "slug": {
+        "de": "gewuerze"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Gewürze"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8143"
+      }
+    },
+    {
+      "externalId": "7811",
+      "name": {
+        "de": "Sekt, Champagner & Prosecco"
+      },
+      "slug": {
+        "de": "sekt-champagner-und-prosecco"
+      },
+      "description": {
+        "de": "Getränke > Wein, Sekt & Champagner > Sekt, Champagner & Prosecco"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7800"
+      }
+    },
+    {
+      "externalId": "8471",
+      "name": {
+        "de": "Küchenhelfer"
+      },
+      "slug": {
+        "de": "kuechenhelfer"
+      },
+      "description": {
+        "de": "Haushalt > Haushaltsgeräte & Zubehör > Küchenhelfer"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8466"
+      }
+    },
+    {
+      "externalId": "8035",
+      "name": {
+        "de": "Dauerwurst"
+      },
+      "slug": {
+        "de": "dauerwurst"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Dauerwurst"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7766"
+      }
+    },
+    {
+      "externalId": "8119",
+      "name": {
+        "de": "Dinkel, Roggen & Vollkorn"
+      },
+      "slug": {
+        "de": "dinkel-roggen-und-vollkorn"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Brot & Gebäck > Dinkel, Roggen & Vollkorn"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8111"
+      }
+    },
+    {
+      "externalId": "8135",
+      "name": {
+        "de": "Cupcakes, Muffins & Co"
+      },
+      "slug": {
+        "de": "cupcakes-muffins-und-co"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Konditorei > Cupcakes, Muffins & Co"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8114"
+      }
+    },
+    {
+      "externalId": "8073",
+      "name": {
+        "de": "Reis- & Pfannengerichte"
+      },
+      "slug": {
+        "de": "reis-und-pfannengerichte"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel > Reis- & Pfannengerichte"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7582"
+      }
+    },
+    {
+      "externalId": "8086",
+      "name": {
+        "de": "Meeresfrüchte mariniert"
+      },
+      "slug": {
+        "de": "meeresfruechte-mariniert"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fisch & Meeresfrüchte > Meeresfrüchte mariniert"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7583"
+      }
+    },
+    {
+      "externalId": "8090",
+      "name": {
+        "de": "Schweinefleisch"
+      },
+      "slug": {
+        "de": "schweinefleisch"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fleisch & Geflügel > Schweinefleisch"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7584"
+      }
+    },
+    {
+      "externalId": "7594",
+      "name": {
+        "de": "Pilze"
+      },
+      "slug": {
+        "de": "pilze"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Pilze"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7585"
+      }
+    },
+    {
+      "externalId": "7699",
+      "name": {
+        "de": "Exoten"
+      },
+      "slug": {
+        "de": "exoten"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Exoten"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7692"
+      }
+    },
+    {
+      "externalId": "7747",
+      "name": {
+        "de": "Kandierte Früchte"
+      },
+      "slug": {
+        "de": "kandierte-fruechte"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Kandierte Früchte"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7693"
+      }
+    },
+    {
+      "externalId": "7843",
+      "name": {
+        "de": "Tomaten & Gurken"
+      },
+      "slug": {
+        "de": "tomaten-und-gurken"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Tomaten & Gurken"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7694"
+      }
+    },
+    {
+      "externalId": "7949",
+      "name": {
+        "de": "Gekühlte Salatdressings"
+      },
+      "slug": {
+        "de": "gekuehlte-salatdressings"
+      },
+      "description": {
+        "de": "Kühlprodukte > Salate, Aufstriche & Antipasti (Gabelbissen) > Gekühlte Salatdressings"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7763"
+      }
+    },
+    {
+      "externalId": "7938",
+      "name": {
+        "de": "Suppen & Eintöpfe"
+      },
+      "slug": {
+        "de": "suppen-und-eintoepfe"
+      },
+      "description": {
+        "de": "Kühlprodukte > Gekühlte Fertiggerichte > Suppen & Eintöpfe"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7762"
+      }
+    },
+    {
+      "externalId": "7775",
+      "name": {
+        "de": "Milchmisch- & Molkereiprodukte"
+      },
+      "slug": {
+        "de": "milchmisch-und-molkereiprodukte"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Milchmisch- & Molkereiprodukte"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7672"
+      }
+    },
+    {
+      "externalId": "7967",
+      "name": {
+        "de": "Wild"
+      },
+      "slug": {
+        "de": "wild"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Wild"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7765"
+      }
+    },
+    {
+      "externalId": "8153",
+      "name": {
+        "de": "Süßspeisen"
+      },
+      "slug": {
+        "de": "suessspeisen"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Fertiggerichte & Co > Süßspeisen"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8139"
+      }
+    },
+    {
+      "externalId": "8164",
+      "name": {
+        "de": "Aufstrich- & Fischkonserven"
+      },
+      "slug": {
+        "de": "aufstrich-und-fischkonserven"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Aufstrich- & Fischkonserven"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8140"
+      }
+    },
+    {
+      "externalId": "8449",
+      "name": {
+        "de": "Gewürzmischungen & Gewürzsalze"
+      },
+      "slug": {
+        "de": "gewuerzmischungen-und-gewuerzsalze"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Gewürzmischungen & Gewürzsalze"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8143"
+      }
+    },
+    {
+      "externalId": "7812",
+      "name": {
+        "de": "Apfelwein"
+      },
+      "slug": {
+        "de": "apfelwein"
+      },
+      "description": {
+        "de": "Getränke > Wein, Sekt & Champagner > Apfelwein"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7800"
+      }
+    },
+    {
+      "externalId": "8472",
+      "name": {
+        "de": "Töpfe & Pfannen"
+      },
+      "slug": {
+        "de": "toepfe-und-pfannen"
+      },
+      "description": {
+        "de": "Haushalt > Haushaltsgeräte & Zubehör > Töpfe & Pfannen"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8466"
+      }
+    },
+    {
+      "externalId": "8036",
+      "name": {
+        "de": "Salami & Rohwurst"
+      },
+      "slug": {
+        "de": "salami-und-rohwurst"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Salami & Rohwurst"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7766"
+      }
+    },
+    {
+      "externalId": "8120",
+      "name": {
+        "de": "Glutenfreies Brot & Gebäck"
+      },
+      "slug": {
+        "de": "glutenfreies-brot-und-gebaeck"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Brot & Gebäck > Glutenfreies Brot & Gebäck"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8111"
+      }
+    },
+    {
+      "externalId": "8136",
+      "name": {
+        "de": "Torten & Schnitten"
+      },
+      "slug": {
+        "de": "torten-und-schnitten"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Konditorei > Torten & Schnitten"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8114"
+      }
+    },
+    {
+      "externalId": "8074",
+      "name": {
+        "de": "Gemüse"
+      },
+      "slug": {
+        "de": "gemuese"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel > Gemüse"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7582"
+      }
+    },
+    {
+      "externalId": "8091",
+      "name": {
+        "de": "Lammfleisch"
+      },
+      "slug": {
+        "de": "lammfleisch"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fleisch & Geflügel > Lammfleisch"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7584"
+      }
+    },
+    {
+      "externalId": "7595",
+      "name": {
+        "de": "Gemüsemischungen"
+      },
+      "slug": {
+        "de": "gemuesemischungen"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Gemüsemischungen"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7585"
+      }
+    },
+    {
+      "externalId": "7700",
+      "name": {
+        "de": "Beeren"
+      },
+      "slug": {
+        "de": "beeren"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Beeren"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7692"
+      }
+    },
+    {
+      "externalId": "7837",
+      "name": {
+        "de": "Datteln & Feigen"
+      },
+      "slug": {
+        "de": "datteln-und-feigen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Datteln & Feigen"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7693"
+      }
+    },
+    {
+      "externalId": "7844",
+      "name": {
+        "de": "Zucchini, Melanzano & Co"
+      },
+      "slug": {
+        "de": "zucchini-melanzano-und-co"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Zucchini, Melanzano & Co"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7694"
+      }
+    },
+    {
+      "externalId": "7957",
+      "name": {
+        "de": "Kaviar & Kaviarersatz"
+      },
+      "slug": {
+        "de": "kaviar-und-kaviarersatz"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fisch & Meeresfrüchte > Kaviar & Kaviarersatz"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7764"
+      }
+    },
+    {
+      "externalId": "7939",
+      "name": {
+        "de": "Süße Gerichte"
+      },
+      "slug": {
+        "de": "suesse-gerichte"
+      },
+      "description": {
+        "de": "Kühlprodukte > Gekühlte Fertiggerichte > Süße Gerichte"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7762"
+      }
+    },
+    {
+      "externalId": "7968",
+      "name": {
+        "de": "Faschiertes"
+      },
+      "slug": {
+        "de": "faschiertes"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Faschiertes"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7765"
+      }
+    },
+    {
+      "externalId": "7813",
+      "name": {
+        "de": "Portwein"
+      },
+      "slug": {
+        "de": "portwein"
+      },
+      "description": {
+        "de": "Getränke > Wein, Sekt & Champagner > Portwein"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7800"
+      }
+    },
+    {
+      "externalId": "8473",
+      "name": {
+        "de": "Licht & Batterien"
+      },
+      "slug": {
+        "de": "licht-und-batterien"
+      },
+      "description": {
+        "de": "Haushalt > Haushaltsgeräte & Zubehör > Licht & Batterien"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "8466"
+      }
+    },
+    {
+      "externalId": "8037",
+      "name": {
+        "de": "Geflügelwurst & Geflügelsalami"
+      },
+      "slug": {
+        "de": "gefluegelwurst-und-gefluegelsalami"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Geflügelwurst & Geflügelsalami"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7766"
+      }
+    },
+    {
+      "externalId": "8121",
+      "name": {
+        "de": "Semmelbrösel & Semmelwürfel"
+      },
+      "slug": {
+        "de": "semmelbroesel-und-semmelwuerfel"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Brot & Gebäck > Semmelbrösel & Semmelwürfel"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "8111"
+      }
+    },
+    {
+      "externalId": "7776",
+      "name": {
+        "de": "Topfen & Obers"
+      },
+      "slug": {
+        "de": "topfen-und-obers"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Topfen & Obers"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7672"
+      }
+    },
+    {
+      "externalId": "8075",
+      "name": {
+        "de": "Schmankerl & Hausmannskost"
+      },
+      "slug": {
+        "de": "schmankerl-und-hausmannskost"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel > Schmankerl & Hausmannskost"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7582"
+      }
+    },
+    {
+      "externalId": "8092",
+      "name": {
+        "de": "Wild"
+      },
+      "slug": {
+        "de": "wild"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fleisch & Geflügel > Wild"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7584"
+      }
+    },
+    {
+      "externalId": "7596",
+      "name": {
+        "de": "Kräuter & Co."
+      },
+      "slug": {
+        "de": "kraeuter-und-co"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Kräuter & Co."
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7585"
+      }
+    },
+    {
+      "externalId": "7701",
+      "name": {
+        "de": "Trauben"
+      },
+      "slug": {
+        "de": "trauben"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Trauben"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7692"
+      }
+    },
+    {
+      "externalId": "7748",
+      "name": {
+        "de": "Maroni"
+      },
+      "slug": {
+        "de": "maroni"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Maroni"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7693"
+      }
+    },
+    {
+      "externalId": "7845",
+      "name": {
+        "de": "Broccoli, Kohlgemüse, Spinat & Kraut"
+      },
+      "slug": {
+        "de": "broccoli-kohlgemuese-spinat-und-kraut"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Broccoli, Kohlgemüse, Spinat & Kraut"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7694"
+      }
+    },
+    {
+      "externalId": "8137",
+      "name": {
+        "de": "Krapfen & Brandteiggebäck"
+      },
+      "slug": {
+        "de": "krapfen-und-brandteiggebaeck"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Konditorei > Krapfen & Brandteiggebäck"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "8114"
+      }
+    },
+    {
+      "externalId": "7940",
+      "name": {
+        "de": "Hausmannskost"
+      },
+      "slug": {
+        "de": "hausmannskost"
+      },
+      "description": {
+        "de": "Kühlprodukte > Gekühlte Fertiggerichte > Hausmannskost"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7762"
+      }
+    },
+    {
+      "externalId": "7969",
+      "name": {
+        "de": "Knochen"
+      },
+      "slug": {
+        "de": "knochen"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Knochen"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7765"
+      }
+    },
+    {
+      "externalId": "7814",
+      "name": {
+        "de": "Dessertwein"
+      },
+      "slug": {
+        "de": "dessertwein"
+      },
+      "description": {
+        "de": "Getränke > Wein, Sekt & Champagner > Dessertwein"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7800"
+      }
+    },
+    {
+      "externalId": "8474",
+      "name": {
+        "de": "Textilien"
+      },
+      "slug": {
+        "de": "textilien"
+      },
+      "description": {
+        "de": "Haushalt > Haushaltsgeräte & Zubehör > Textilien"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "8466"
+      }
+    },
+    {
+      "externalId": "8038",
+      "name": {
+        "de": "Speck"
+      },
+      "slug": {
+        "de": "speck"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Speck"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7766"
+      }
+    },
+    {
+      "externalId": "8122",
+      "name": {
+        "de": "Backshop-Snacks"
+      },
+      "slug": {
+        "de": "backshopsnacks"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Brot & Gebäck > Backshop-Snacks"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "8111"
+      }
+    },
+    {
+      "externalId": "7777",
+      "name": {
+        "de": "Rahm & Crème Fraiche"
+      },
+      "slug": {
+        "de": "rahm-und-creme-fraiche"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Rahm & Crème Fraiche"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7672"
+      }
+    },
+    {
+      "externalId": "8076",
+      "name": {
+        "de": "Asiatisch"
+      },
+      "slug": {
+        "de": "asiatisch"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel > Asiatisch"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7582"
+      }
+    },
+    {
+      "externalId": "7597",
+      "name": {
+        "de": "Sonstiges Gemüse tiefgekühlt"
+      },
+      "slug": {
+        "de": "sonstiges-gemuese-tiefgekuehlt"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Sonstiges Gemüse tiefgekühlt"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7585"
+      }
+    },
+    {
+      "externalId": "7702",
+      "name": {
+        "de": "Melonen"
+      },
+      "slug": {
+        "de": "melonen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Melonen"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7692"
+      }
+    },
+    {
+      "externalId": "7749",
+      "name": {
+        "de": "Gesunde Knabbereien"
+      },
+      "slug": {
+        "de": "gesunde-knabbereien"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Gesunde Knabbereien"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7693"
+      }
+    },
+    {
+      "externalId": "7846",
+      "name": {
+        "de": "Zwiebel & Knoblauch"
+      },
+      "slug": {
+        "de": "zwiebel-und-knoblauch"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Zwiebel & Knoblauch"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7694"
+      }
+    },
+    {
+      "externalId": "8138",
+      "name": {
+        "de": "Dessertcremen"
+      },
+      "slug": {
+        "de": "dessertcremen"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Konditorei > Dessertcremen"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "8114"
+      }
+    },
+    {
+      "externalId": "7941",
+      "name": {
+        "de": "Fertigteige"
+      },
+      "slug": {
+        "de": "fertigteige"
+      },
+      "description": {
+        "de": "Kühlprodukte > Gekühlte Fertiggerichte > Fertigteige"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7762"
+      }
+    },
+    {
+      "externalId": "7976",
+      "name": {
+        "de": "Fondue & Raclette"
+      },
+      "slug": {
+        "de": "fondue-und-raclette"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Fondue & Raclette"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7765"
+      }
+    },
+    {
+      "externalId": "8475",
+      "name": {
+        "de": "Küchengeräte"
+      },
+      "slug": {
+        "de": "kuechengeraete"
+      },
+      "description": {
+        "de": "Haushalt > Haushaltsgeräte & Zubehör > Küchengeräte"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "8466"
+      }
+    },
+    {
+      "externalId": "8039",
+      "name": {
+        "de": "Würstel"
+      },
+      "slug": {
+        "de": "wuerstel"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Würstel"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7766"
+      }
+    },
+    {
+      "externalId": "8077",
+      "name": {
+        "de": "Pizza & Baguette"
+      },
+      "slug": {
+        "de": "pizza-und-baguette"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel > Pizza & Baguette"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7582"
+      }
+    },
+    {
+      "externalId": "7703",
+      "name": {
+        "de": "Steinobst"
+      },
+      "slug": {
+        "de": "steinobst"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Steinobst"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7692"
+      }
+    },
+    {
+      "externalId": "7847",
+      "name": {
+        "de": "Pilze"
+      },
+      "slug": {
+        "de": "pilze"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Pilze"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7694"
+      }
+    },
+    {
+      "externalId": "7778",
+      "name": {
+        "de": "Pudding, Dessert & Müsli"
+      },
+      "slug": {
+        "de": "pudding-dessert-und-muesli"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Pudding, Dessert & Müsli"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7672"
+      }
+    },
+    {
+      "externalId": "7779",
+      "name": {
+        "de": "Milchschnitte & Co"
+      },
+      "slug": {
+        "de": "milchschnitte-und-co"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Milchschnitte & Co"
+      },
+      "orderHint": "90",
+      "parent": {
+        "id": "7672"
+      }
+    },
+    {
+      "externalId": "7977",
+      "name": {
+        "de": "Huhn"
+      },
+      "slug": {
+        "de": "huhn"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Huhn"
+      },
+      "orderHint": "90",
+      "parent": {
+        "id": "7765"
+      }
+    },
+    {
+      "externalId": "7848",
+      "name": {
+        "de": "Hülsenfrüchte"
+      },
+      "slug": {
+        "de": "huelsenfruechte"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Hülsenfrüchte"
+      },
+      "orderHint": "90",
+      "parent": {
+        "id": "7694"
+      }
+    },
+    {
+      "externalId": "8078",
+      "name": {
+        "de": "Sonstige Fertiggerichte"
+      },
+      "slug": {
+        "de": "sonstige-fertiggerichte"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel > Sonstige Fertiggerichte"
+      },
+      "orderHint": "90",
+      "parent": {
+        "id": "7582"
+      }
+    },
+    {
+      "externalId": "7704",
+      "name": {
+        "de": "Geschnittene & geschälte Früchte"
+      },
+      "slug": {
+        "de": "geschnittene-und-geschaelte-fruechte"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Geschnittene & geschälte Früchte"
+      },
+      "orderHint": "90",
+      "parent": {
+        "id": "7692"
+      }
+    },
+    {
+      "externalId": "8040",
+      "name": {
+        "de": "Streichwurst, Pasteten & Fleischaufstriche (Riette)"
+      },
+      "slug": {
+        "de": "streichwurst-pasteten-und-fleischaufstriche-riette"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Streichwurst, Pasteten & Fleischaufstriche (Riette)"
+      },
+      "orderHint": "90",
+      "parent": {
+        "id": "7766"
+      }
+    },
+    {
+      "externalId": "7978",
+      "name": {
+        "de": "Pute & Truthahn"
+      },
+      "slug": {
+        "de": "pute-und-truthahn"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Pute & Truthahn"
+      },
+      "orderHint": "100",
+      "parent": {
+        "id": "7765"
+      }
+    },
+    {
+      "externalId": "7849",
+      "name": {
+        "de": "Küchen- & Gewürzkräuter"
+      },
+      "slug": {
+        "de": "kuechen-und-gewuerzkraeuter"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Küchen- & Gewürzkräuter"
+      },
+      "orderHint": "100",
+      "parent": {
+        "id": "7694"
+      }
+    },
+    {
+      "externalId": "7780",
+      "name": {
+        "de": "Eier"
+      },
+      "slug": {
+        "de": "eier"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Eier"
+      },
+      "orderHint": "100",
+      "parent": {
+        "id": "7672"
+      }
+    },
+    {
+      "externalId": "7850",
+      "name": {
+        "de": "Karotten & Wurzelgemüse"
+      },
+      "slug": {
+        "de": "karotten-und-wurzelgemuese"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Karotten & Wurzelgemüse"
+      },
+      "orderHint": "110",
+      "parent": {
+        "id": "7694"
+      }
+    },
+    {
+      "externalId": "7979",
+      "name": {
+        "de": "Ente & Gans"
+      },
+      "slug": {
+        "de": "ente-und-gans"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Ente & Gans"
+      },
+      "orderHint": "110",
+      "parent": {
+        "id": "7765"
+      }
+    },
+    {
+      "externalId": "7851",
+      "name": {
+        "de": "Suppengemüse"
+      },
+      "slug": {
+        "de": "suppengemuese"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Suppengemüse"
+      },
+      "orderHint": "120",
+      "parent": {
+        "id": "7694"
+      }
+    },
+    {
+      "externalId": "7980",
+      "name": {
+        "de": "Geflügelspezialität"
+      },
+      "slug": {
+        "de": "gefluegelspezialitaet"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Geflügelspezialität"
+      },
+      "orderHint": "120",
+      "parent": {
+        "id": "7765"
+      }
+    },
+    {
+      "externalId": "7852",
+      "name": {
+        "de": "Convenience-Gemüse"
+      },
+      "slug": {
+        "de": "conveniencegemuese"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Convenience-Gemüse"
+      },
+      "orderHint": "130",
+      "parent": {
+        "id": "7694"
+      }
+    },
+    {
+      "externalId": "7727",
+      "name": {
+        "de": "Weiße Trauben"
+      },
+      "slug": {
+        "de": "weisse-trauben"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Trauben > Weiße Trauben"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7701"
+      }
+    },
+    {
+      "externalId": "7730",
+      "name": {
+        "de": "Wassermelonen"
+      },
+      "slug": {
+        "de": "wassermelonen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Melonen > Wassermelonen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7702"
+      }
+    },
+    {
+      "externalId": "7735",
+      "name": {
+        "de": "Pfirsiche"
+      },
+      "slug": {
+        "de": "pfirsiche"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Steinobst > Pfirsiche"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7703"
+      }
+    },
+    {
+      "externalId": "7742",
+      "name": {
+        "de": "Mit Joghurt"
+      },
+      "slug": {
+        "de": "mit-joghurt"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Geschnittene & geschälte Früchte > Mit Joghurt"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7704"
+      }
+    },
+    {
+      "externalId": "7750",
+      "name": {
+        "de": "Haselnüsse"
+      },
+      "slug": {
+        "de": "haselnuesse"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Nüsse > Haselnüsse"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7744"
+      }
+    },
+    {
+      "externalId": "7831",
+      "name": {
+        "de": "Pinienkerne"
+      },
+      "slug": {
+        "de": "pinienkerne"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Kerne > Pinienkerne"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7745"
+      }
+    },
+    {
+      "externalId": "7835",
+      "name": {
+        "de": "Trockenfrüchte sortenrein"
+      },
+      "slug": {
+        "de": "trockenfruechte-sortenrein"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Trockenfrüchte > Trockenfrüchte sortenrein"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7746"
+      }
+    },
+    {
+      "externalId": "7838",
+      "name": {
+        "de": "Datteln"
+      },
+      "slug": {
+        "de": "datteln"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Datteln & Feigen > Datteln"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7837"
+      }
+    },
+    {
+      "externalId": "7853",
+      "name": {
+        "de": "Salate"
+      },
+      "slug": {
+        "de": "salate"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Salat > Salate"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7840"
+      }
+    },
+    {
+      "externalId": "7855",
+      "name": {
+        "de": "Speckige & festkochende Erdäpfel"
+      },
+      "slug": {
+        "de": "speckige-und-festkochende-erdaepfel"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Erdäpfel > Speckige & festkochende Erdäpfel"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7841"
+      }
+    },
+    {
+      "externalId": "8165",
+      "name": {
+        "de": "Mais"
+      },
+      "slug": {
+        "de": "mais"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Gemüsekonserven > Mais"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8160"
+      }
+    },
+    {
+      "externalId": "8172",
+      "name": {
+        "de": "Pfirsich"
+      },
+      "slug": {
+        "de": "pfirsich"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Obst & Kompott > Pfirsich"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8161"
+      }
+    },
+    {
+      "externalId": "8177",
+      "name": {
+        "de": "Gurkerl"
+      },
+      "slug": {
+        "de": "gurkerl"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Sauerwaren > Gurkerl"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8162"
+      }
+    },
+    {
+      "externalId": "8450",
+      "name": {
+        "de": "Tafelessige & Essigessenzen"
+      },
+      "slug": {
+        "de": "tafelessige-und-essigessenzen"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Essig > Tafelessige & Essigessenzen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8445"
+      }
+    },
+    {
+      "externalId": "8455",
+      "name": {
+        "de": "Tafelöl"
+      },
+      "slug": {
+        "de": "tafeloel"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Öle > Tafelöl"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8446"
+      }
+    },
+    {
+      "externalId": "7805",
+      "name": {
+        "de": "Prickelnd"
+      },
+      "slug": {
+        "de": "prickelnd"
+      },
+      "description": {
+        "de": "Getränke > Wasser > Mineralwasser > Prickelnd"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7802"
+      }
+    },
+    {
+      "externalId": "7815",
+      "name": {
+        "de": "Rotwein aus Österreich"
+      },
+      "slug": {
+        "de": "rotwein-aus-oesterreich"
+      },
+      "description": {
+        "de": "Getränke > Wein, Sekt & Champagner > Rotwein > Rotwein aus Österreich"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7808"
+      }
+    },
+    {
+      "externalId": "8442",
+      "name": {
+        "de": "Handgeschirrspülmittel"
+      },
+      "slug": {
+        "de": "handgeschirrspuelmittel"
+      },
+      "description": {
+        "de": "Haushalt > Putzen & Reinigen > Geschirrspülmittel > Handgeschirrspülmittel"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8441"
+      }
+    },
+    {
+      "externalId": "8476",
+      "name": {
+        "de": "Energiesparlampen"
+      },
+      "slug": {
+        "de": "energiesparlampen"
+      },
+      "description": {
+        "de": "Haushalt > Haushaltsgeräte & Zubehör > Licht & Batterien > Energiesparlampen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8473"
+      }
+    },
+    {
+      "externalId": "8438",
+      "name": {
+        "de": "Breie"
+      },
+      "slug": {
+        "de": "breie"
+      },
+      "description": {
+        "de": "Baby > Babynahrung > Milch & Breie > Breie"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8436"
+      }
+    },
+    {
+      "externalId": "8423",
+      "name": {
+        "de": "Shampoos"
+      },
+      "slug": {
+        "de": "shampoos"
+      },
+      "description": {
+        "de": "Drogerie > Haarpflege > Shampoo & Pflege > Shampoos"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8420"
+      }
+    },
+    {
+      "externalId": "8429",
+      "name": {
+        "de": "Haarfarben"
+      },
+      "slug": {
+        "de": "haarfarben"
+      },
+      "description": {
+        "de": "Drogerie > Haarpflege > Colorationen > Haarfarben"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8422"
+      }
+    },
+    {
+      "externalId": "8028",
+      "name": {
+        "de": "Ente"
+      },
+      "slug": {
+        "de": "ente"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Ente & Gans > Ente"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7979"
+      }
+    },
+    {
+      "externalId": "7982",
+      "name": {
+        "de": "Rindfleisch zum Kochen"
+      },
+      "slug": {
+        "de": "rindfleisch-zum-kochen"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Rindfleisch > Rindfleisch zum Kochen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7981"
+      }
+    },
+    {
+      "externalId": "8041",
+      "name": {
+        "de": "Kochschinken"
+      },
+      "slug": {
+        "de": "kochschinken"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Schinken > Kochschinken"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8030"
+      }
+    },
+    {
+      "externalId": "8043",
+      "name": {
+        "de": "Extrawurst"
+      },
+      "slug": {
+        "de": "extrawurst"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Wurst > Extrawurst"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8034"
+      }
+    },
+    {
+      "externalId": "8051",
+      "name": {
+        "de": "Salami"
+      },
+      "slug": {
+        "de": "salami"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Salami & Rohwurst > Salami"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8036"
+      }
+    },
+    {
+      "externalId": "8055",
+      "name": {
+        "de": "Schinkenspeck"
+      },
+      "slug": {
+        "de": "schinkenspeck"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Speck > Schinkenspeck"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8038"
+      }
+    },
+    {
+      "externalId": "8057",
+      "name": {
+        "de": "Bratwurst"
+      },
+      "slug": {
+        "de": "bratwurst"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Würstel > Bratwurst"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8039"
+      }
+    },
+    {
+      "externalId": "8064",
+      "name": {
+        "de": "Streichwurst"
+      },
+      "slug": {
+        "de": "streichwurst"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Streichwurst, Pasteten & Fleischaufstriche (Riette) > Streichwurst"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8040"
+      }
+    },
+    {
+      "externalId": "8127",
+      "name": {
+        "de": "Toastbrot weiß"
+      },
+      "slug": {
+        "de": "toastbrot-weiss"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Toastbrot & Aufbackbrötchen > Toastbrot > Toastbrot weiß"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8125"
+      }
+    },
+    {
+      "externalId": "8079",
+      "name": {
+        "de": "Fisch"
+      },
+      "slug": {
+        "de": "fisch"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel > Fisch & Meeresfrüchte > Fisch"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8070"
+      }
+    },
+    {
+      "externalId": "8081",
+      "name": {
+        "de": "Knödel mit Fülle"
+      },
+      "slug": {
+        "de": "knoedel-mit-fuelle"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel > Knödel > Knödel mit Fülle"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8072"
+      }
+    },
+    {
+      "externalId": "8093",
+      "name": {
+        "de": "im Ganzen"
+      },
+      "slug": {
+        "de": "im-ganzen"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fleisch & Geflügel > Ente & Gans > im Ganzen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8087"
+      }
+    },
+    {
+      "externalId": "8095",
+      "name": {
+        "de": "Hühnerfilets"
+      },
+      "slug": {
+        "de": "huehnerfilets"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fleisch & Geflügel > Huhn & Pute > Hühnerfilets"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8088"
+      }
+    },
+    {
+      "externalId": "7598",
+      "name": {
+        "de": "Erbsen"
+      },
+      "slug": {
+        "de": "erbsen"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Erbsen, Karotten & Sprossen > Erbsen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7591"
+      }
+    },
+    {
+      "externalId": "8105",
+      "name": {
+        "de": "Knödel"
+      },
+      "slug": {
+        "de": "knoedel"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Torten, Mehlspeisen & Früchte > Mehlspeisen & Knödel > Knödel"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8102"
+      }
+    },
+    {
+      "externalId": "8155",
+      "name": {
+        "de": "Nudelgerichte"
+      },
+      "slug": {
+        "de": "nudelgerichte"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Fertiggerichte & Co > Nudeln, Reisgerichte & Co > Nudelgerichte"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8148"
+      }
+    },
+    {
+      "externalId": "8157",
+      "name": {
+        "de": "Suppen mit Fleisch"
+      },
+      "slug": {
+        "de": "suppen-mit-fleisch"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Fertiggerichte & Co > Suppen > Suppen mit Fleisch"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "8152"
+      }
+    },
+    {
+      "externalId": "7919",
+      "name": {
+        "de": "Kaffee"
+      },
+      "slug": {
+        "de": "kaffee"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Milchmisch- & Molkereiprodukte > Kaffee"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7775"
+      }
+    },
+    {
+      "externalId": "7923",
+      "name": {
+        "de": "Topfen"
+      },
+      "slug": {
+        "de": "topfen"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Topfen & Obers > Topfen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7776"
+      }
+    },
+    {
+      "externalId": "7925",
+      "name": {
+        "de": "Rahm"
+      },
+      "slug": {
+        "de": "rahm"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Rahm & Crème Fraiche > Rahm"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7777"
+      }
+    },
+    {
+      "externalId": "7927",
+      "name": {
+        "de": "Pudding"
+      },
+      "slug": {
+        "de": "pudding"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Pudding, Dessert & Müsli > Pudding"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7778"
+      }
+    },
+    {
+      "externalId": "7931",
+      "name": {
+        "de": "Aus Bodenhaltung"
+      },
+      "slug": {
+        "de": "aus-bodenhaltung"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Eier > Aus Bodenhaltung"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7780"
+      }
+    },
+    {
+      "externalId": "7942",
+      "name": {
+        "de": "Pizza"
+      },
+      "slug": {
+        "de": "pizza"
+      },
+      "description": {
+        "de": "Kühlprodukte > Gekühlte Fertiggerichte > Pizza, Pasta & Co > Pizza"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7937"
+      }
+    },
+    {
+      "externalId": "7944",
+      "name": {
+        "de": "Suppen"
+      },
+      "slug": {
+        "de": "suppen"
+      },
+      "description": {
+        "de": "Kühlprodukte > Gekühlte Fertiggerichte > Suppen & Eintöpfe > Suppen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7938"
+      }
+    },
+    {
+      "externalId": "7950",
+      "name": {
+        "de": "Fischsalate"
+      },
+      "slug": {
+        "de": "fischsalate"
+      },
+      "description": {
+        "de": "Kühlprodukte > Salate, Aufstriche & Antipasti (Gabelbissen) > Salate & Gabelbissen > Fischsalate"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7947"
+      }
+    },
+    {
+      "externalId": "7958",
+      "name": {
+        "de": "Hering"
+      },
+      "slug": {
+        "de": "hering"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fisch & Meeresfrüchte > Marinierte Fische > Hering"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7953"
+      }
+    },
+    {
+      "externalId": "7960",
+      "name": {
+        "de": "Räucherlachs"
+      },
+      "slug": {
+        "de": "raeucherlachs"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fisch & Meeresfrüchte > Räucherfisch & Räucherlachs > Räucherlachs"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7955"
+      }
+    },
+    {
+      "externalId": "7962",
+      "name": {
+        "de": "Kaviar"
+      },
+      "slug": {
+        "de": "kaviar"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fisch & Meeresfrüchte > Kaviar & Kaviarersatz > Kaviar"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7957"
+      }
+    },
+    {
+      "externalId": "7991",
+      "name": {
+        "de": "Schweinefleisch zum Kochen"
+      },
+      "slug": {
+        "de": "schweinefleisch-zum-kochen"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Schweinefleisch > Schweinefleisch zum Kochen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7964"
+      }
+    },
+    {
+      "externalId": "8000",
+      "name": {
+        "de": "Kalbfleisch zum Kochen"
+      },
+      "slug": {
+        "de": "kalbfleisch-zum-kochen"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Kalbfleisch > Kalbfleisch zum Kochen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7965"
+      }
+    },
+    {
+      "externalId": "8009",
+      "name": {
+        "de": "Lammfleisch zum Kochen"
+      },
+      "slug": {
+        "de": "lammfleisch-zum-kochen"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Lammfleisch > Lammfleisch zum Kochen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7966"
+      }
+    },
+    {
+      "externalId": "8017",
+      "name": {
+        "de": "Hirsch"
+      },
+      "slug": {
+        "de": "hirsch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Wild > Hirsch"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7967"
+      }
+    },
+    {
+      "externalId": "8022",
+      "name": {
+        "de": "Ganzes Huhn"
+      },
+      "slug": {
+        "de": "ganzes-huhn"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Huhn > Ganzes Huhn"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7977"
+      }
+    },
+    {
+      "externalId": "8025",
+      "name": {
+        "de": "Ganze Pute/Truthahn"
+      },
+      "slug": {
+        "de": "ganze-putetruthahn"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Pute & Truthahn > Ganze Pute/Truthahn"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7978"
+      }
+    },
+    {
+      "externalId": "7860",
+      "name": {
+        "de": "Paprika"
+      },
+      "slug": {
+        "de": "paprika"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Paprika, Pfeffer & Chili > Paprika"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7842"
+      }
+    },
+    {
+      "externalId": "7863",
+      "name": {
+        "de": "Tomaten"
+      },
+      "slug": {
+        "de": "tomaten"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Tomaten & Gurken > Tomaten"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7843"
+      }
+    },
+    {
+      "externalId": "7866",
+      "name": {
+        "de": "Zucchini"
+      },
+      "slug": {
+        "de": "zucchini"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Zucchini, Melanzano & Co > Zucchini"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7844"
+      }
+    },
+    {
+      "externalId": "7868",
+      "name": {
+        "de": "Broccoli"
+      },
+      "slug": {
+        "de": "broccoli"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Broccoli, Kohlgemüse, Spinat & Kraut > Broccoli"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7845"
+      }
+    },
+    {
+      "externalId": "7871",
+      "name": {
+        "de": "Zwiebel"
+      },
+      "slug": {
+        "de": "zwiebel"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Zwiebel & Knoblauch > Zwiebel"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7846"
+      }
+    },
+    {
+      "externalId": "7873",
+      "name": {
+        "de": "Champignons"
+      },
+      "slug": {
+        "de": "champignons"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Pilze > Champignons"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7847"
+      }
+    },
+    {
+      "externalId": "7879",
+      "name": {
+        "de": "Erbsen"
+      },
+      "slug": {
+        "de": "erbsen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Hülsenfrüchte > Erbsen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7848"
+      }
+    },
+    {
+      "externalId": "7892",
+      "name": {
+        "de": "Petersilie"
+      },
+      "slug": {
+        "de": "petersilie"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Küchen- & Gewürzkräuter > Petersilie"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7849"
+      }
+    },
+    {
+      "externalId": "7897",
+      "name": {
+        "de": "Karotten"
+      },
+      "slug": {
+        "de": "karotten"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Karotten & Wurzelgemüse > Karotten"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7850"
+      }
+    },
+    {
+      "externalId": "7902",
+      "name": {
+        "de": "Essfertige Salate"
+      },
+      "slug": {
+        "de": "essfertige-salate"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Convenience-Gemüse > Essfertige Salate"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7852"
+      }
+    },
+    {
+      "externalId": "7906",
+      "name": {
+        "de": "Frischmilch"
+      },
+      "slug": {
+        "de": "frischmilch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Milch > Frischmilch"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7771"
+      }
+    },
+    {
+      "externalId": "7913",
+      "name": {
+        "de": "Butter"
+      },
+      "slug": {
+        "de": "butter"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Butter & Margarine > Butter"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7772"
+      }
+    },
+    {
+      "externalId": "7781",
+      "name": {
+        "de": "Hartkäse"
+      },
+      "slug": {
+        "de": "hartkaese"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse > Hartkäse"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7773"
+      }
+    },
+    {
+      "externalId": "7916",
+      "name": {
+        "de": "Naturjoghurt"
+      },
+      "slug": {
+        "de": "naturjoghurt"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Joghurt & Joghurtdrinks > Naturjoghurt"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7774"
+      }
+    },
+    {
+      "externalId": "7705",
+      "name": {
+        "de": "Orangen"
+      },
+      "slug": {
+        "de": "orangen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Zitrusfrüchte > Orangen"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7696"
+      }
+    },
+    {
+      "externalId": "7711",
+      "name": {
+        "de": "Grüne Äpfel"
+      },
+      "slug": {
+        "de": "gruene-aepfel"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Äpfel & Birnen > Grüne Äpfel"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7697"
+      }
+    },
+    {
+      "externalId": "7716",
+      "name": {
+        "de": "Kiwi"
+      },
+      "slug": {
+        "de": "kiwi"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Exoten > Kiwi"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7699"
+      }
+    },
+    {
+      "externalId": "7722",
+      "name": {
+        "de": "Erdbeeren"
+      },
+      "slug": {
+        "de": "erdbeeren"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Beeren > Erdbeeren"
+      },
+      "orderHint": "10",
+      "parent": {
+        "id": "7700"
+      }
+    },
+    {
+      "externalId": "7731",
+      "name": {
+        "de": "Zuckermelonen"
+      },
+      "slug": {
+        "de": "zuckermelonen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Melonen > Zuckermelonen"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7702"
+      }
+    },
+    {
+      "externalId": "7736",
+      "name": {
+        "de": "Nektarinen"
+      },
+      "slug": {
+        "de": "nektarinen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Steinobst > Nektarinen"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7703"
+      }
+    },
+    {
+      "externalId": "7743",
+      "name": {
+        "de": "Ohne Joghurt"
+      },
+      "slug": {
+        "de": "ohne-joghurt"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Geschnittene & geschälte Früchte > Ohne Joghurt"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7704"
+      }
+    },
+    {
+      "externalId": "7751",
+      "name": {
+        "de": "Mandeln"
+      },
+      "slug": {
+        "de": "mandeln"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Nüsse > Mandeln"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7744"
+      }
+    },
+    {
+      "externalId": "7832",
+      "name": {
+        "de": "Kürbiskerne"
+      },
+      "slug": {
+        "de": "kuerbiskerne"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Kerne > Kürbiskerne"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7745"
+      }
+    },
+    {
+      "externalId": "7836",
+      "name": {
+        "de": "Trockenfrüchte-Mischungen"
+      },
+      "slug": {
+        "de": "trockenfruechtemischungen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Trockenfrüchte > Trockenfrüchte-Mischungen"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7746"
+      }
+    },
+    {
+      "externalId": "7839",
+      "name": {
+        "de": "Feigen"
+      },
+      "slug": {
+        "de": "feigen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Datteln & Feigen > Feigen"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7837"
+      }
+    },
+    {
+      "externalId": "7854",
+      "name": {
+        "de": "Essfertige Salate"
+      },
+      "slug": {
+        "de": "essfertige-salate"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Salat > Essfertige Salate"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7840"
+      }
+    },
+    {
+      "externalId": "7856",
+      "name": {
+        "de": "Vorwiegend festkochende Erdäpfel"
+      },
+      "slug": {
+        "de": "vorwiegend-festkochende-erdaepfel"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Erdäpfel > Vorwiegend festkochende Erdäpfel"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7841"
+      }
+    },
+    {
+      "externalId": "8167",
+      "name": {
+        "de": "Bohnen"
+      },
+      "slug": {
+        "de": "bohnen"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Gemüsekonserven > Bohnen"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8160"
+      }
+    },
+    {
+      "externalId": "8178",
+      "name": {
+        "de": "Salate"
+      },
+      "slug": {
+        "de": "salate"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Sauerwaren > Salate"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8162"
+      }
+    },
+    {
+      "externalId": "8451",
+      "name": {
+        "de": "Balsamico-Essig"
+      },
+      "slug": {
+        "de": "balsamicoessig"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Essig > Balsamico-Essig"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8445"
+      }
+    },
+    {
+      "externalId": "8456",
+      "name": {
+        "de": "Maiskeimöl"
+      },
+      "slug": {
+        "de": "maiskeimoel"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Öle > Maiskeimöl"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8446"
+      }
+    },
+    {
+      "externalId": "7806",
+      "name": {
+        "de": "Mild"
+      },
+      "slug": {
+        "de": "mild"
+      },
+      "description": {
+        "de": "Getränke > Wasser > Mineralwasser > Mild"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7802"
+      }
+    },
+    {
+      "externalId": "7816",
+      "name": {
+        "de": "Rotwein aus Frankreich"
+      },
+      "slug": {
+        "de": "rotwein-aus-frankreich"
+      },
+      "description": {
+        "de": "Getränke > Wein, Sekt & Champagner > Rotwein > Rotwein aus Frankreich"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7808"
+      }
+    },
+    {
+      "externalId": "8443",
+      "name": {
+        "de": "Maschinen-Geschirrspülmittel"
+      },
+      "slug": {
+        "de": "maschinengeschirrspuelmittel"
+      },
+      "description": {
+        "de": "Haushalt > Putzen & Reinigen > Geschirrspülmittel > Maschinen-Geschirrspülmittel"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8441"
+      }
+    },
+    {
+      "externalId": "8477",
+      "name": {
+        "de": "Glühlampen"
+      },
+      "slug": {
+        "de": "gluehlampen"
+      },
+      "description": {
+        "de": "Haushalt > Haushaltsgeräte & Zubehör > Licht & Batterien > Glühlampen"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8473"
+      }
+    },
+    {
+      "externalId": "8439",
+      "name": {
+        "de": "Milch & Milchpulver"
+      },
+      "slug": {
+        "de": "milch-und-milchpulver"
+      },
+      "description": {
+        "de": "Baby > Babynahrung > Milch & Breie > Milch & Milchpulver"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8436"
+      }
+    },
+    {
+      "externalId": "8424",
+      "name": {
+        "de": "Hairtonic"
+      },
+      "slug": {
+        "de": "hairtonic"
+      },
+      "description": {
+        "de": "Drogerie > Haarpflege > Shampoo & Pflege > Hairtonic"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8420"
+      }
+    },
+    {
+      "externalId": "8430",
+      "name": {
+        "de": "Haartönungen"
+      },
+      "slug": {
+        "de": "haartoenungen"
+      },
+      "description": {
+        "de": "Drogerie > Haarpflege > Colorationen > Haartönungen"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8422"
+      }
+    },
+    {
+      "externalId": "8026",
+      "name": {
+        "de": "Putenteile natur"
+      },
+      "slug": {
+        "de": "putenteile-natur"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Pute & Truthahn > Putenteile natur"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7978"
+      }
+    },
+    {
+      "externalId": "8029",
+      "name": {
+        "de": "Gans"
+      },
+      "slug": {
+        "de": "gans"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Ente & Gans > Gans"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7979"
+      }
+    },
+    {
+      "externalId": "7983",
+      "name": {
+        "de": "Rindfleisch zum Braten"
+      },
+      "slug": {
+        "de": "rindfleisch-zum-braten"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Rindfleisch > Rindfleisch zum Braten"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7981"
+      }
+    },
+    {
+      "externalId": "8042",
+      "name": {
+        "de": "Rohschinken"
+      },
+      "slug": {
+        "de": "rohschinken"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Schinken > Rohschinken"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8030"
+      }
+    },
+    {
+      "externalId": "8044",
+      "name": {
+        "de": "Krakauer"
+      },
+      "slug": {
+        "de": "krakauer"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Wurst > Krakauer"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8034"
+      }
+    },
+    {
+      "externalId": "8053",
+      "name": {
+        "de": "Rohwurst"
+      },
+      "slug": {
+        "de": "rohwurst"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Salami & Rohwurst > Rohwurst"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8036"
+      }
+    },
+    {
+      "externalId": "8056",
+      "name": {
+        "de": "Sonstiger Speck"
+      },
+      "slug": {
+        "de": "sonstiger-speck"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Speck > Sonstiger Speck"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8038"
+      }
+    },
+    {
+      "externalId": "8058",
+      "name": {
+        "de": "Frankfurter"
+      },
+      "slug": {
+        "de": "frankfurter"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Würstel > Frankfurter"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8039"
+      }
+    },
+    {
+      "externalId": "8065",
+      "name": {
+        "de": "Pasteten"
+      },
+      "slug": {
+        "de": "pasteten"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Streichwurst, Pasteten & Fleischaufstriche (Riette) > Pasteten"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8040"
+      }
+    },
+    {
+      "externalId": "8128",
+      "name": {
+        "de": "Toastbrot Mehrkorn"
+      },
+      "slug": {
+        "de": "toastbrot-mehrkorn"
+      },
+      "description": {
+        "de": "Brot, Gebäck & Konditorei > Toastbrot & Aufbackbrötchen > Toastbrot > Toastbrot Mehrkorn"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8125"
+      }
+    },
+    {
+      "externalId": "8080",
+      "name": {
+        "de": "Meeresfrüchte"
+      },
+      "slug": {
+        "de": "meeresfruechte"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel > Fisch & Meeresfrüchte > Meeresfrüchte"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8070"
+      }
+    },
+    {
+      "externalId": "8082",
+      "name": {
+        "de": "Knödel ohne Fülle"
+      },
+      "slug": {
+        "de": "knoedel-ohne-fuelle"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fertiggerichte & Knödel > Knödel > Knödel ohne Fülle"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8072"
+      }
+    },
+    {
+      "externalId": "8094",
+      "name": {
+        "de": "Teile"
+      },
+      "slug": {
+        "de": "teile"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fleisch & Geflügel > Ente & Gans > Teile"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8087"
+      }
+    },
+    {
+      "externalId": "8096",
+      "name": {
+        "de": "Hühnerflügel"
+      },
+      "slug": {
+        "de": "huehnerfluegel"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fleisch & Geflügel > Huhn & Pute > Hühnerflügel"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8088"
+      }
+    },
+    {
+      "externalId": "7599",
+      "name": {
+        "de": "Karotten"
+      },
+      "slug": {
+        "de": "karotten"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Erbsen, Karotten & Sprossen > Karotten"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7591"
+      }
+    },
+    {
+      "externalId": "8106",
+      "name": {
+        "de": "Strudel"
+      },
+      "slug": {
+        "de": "strudel"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Torten, Mehlspeisen & Früchte > Mehlspeisen & Knödel > Strudel"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8102"
+      }
+    },
+    {
+      "externalId": "8156",
+      "name": {
+        "de": "Reisgerichte"
+      },
+      "slug": {
+        "de": "reisgerichte"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Fertiggerichte & Co > Nudeln, Reisgerichte & Co > Reisgerichte"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8148"
+      }
+    },
+    {
+      "externalId": "8158",
+      "name": {
+        "de": "Suppen mit Gemüse"
+      },
+      "slug": {
+        "de": "suppen-mit-gemuese"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Fertiggerichte & Co > Suppen > Suppen mit Gemüse"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "8152"
+      }
+    },
+    {
+      "externalId": "7920",
+      "name": {
+        "de": "Kakao"
+      },
+      "slug": {
+        "de": "kakao"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Milchmisch- & Molkereiprodukte > Kakao"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7775"
+      }
+    },
+    {
+      "externalId": "7924",
+      "name": {
+        "de": "Obers"
+      },
+      "slug": {
+        "de": "obers"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Topfen & Obers > Obers"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7776"
+      }
+    },
+    {
+      "externalId": "7926",
+      "name": {
+        "de": "Crème Fraíche"
+      },
+      "slug": {
+        "de": "creme-frache"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Rahm & Crème Fraiche > Crème Fraíche"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7777"
+      }
+    },
+    {
+      "externalId": "7928",
+      "name": {
+        "de": "Desserts"
+      },
+      "slug": {
+        "de": "desserts"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Pudding, Dessert & Müsli > Desserts"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7778"
+      }
+    },
+    {
+      "externalId": "7932",
+      "name": {
+        "de": "Aus Freilandhaltung"
+      },
+      "slug": {
+        "de": "aus-freilandhaltung"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Eier > Aus Freilandhaltung"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7780"
+      }
+    },
+    {
+      "externalId": "7943",
+      "name": {
+        "de": "Pasta"
+      },
+      "slug": {
+        "de": "pasta"
+      },
+      "description": {
+        "de": "Kühlprodukte > Gekühlte Fertiggerichte > Pizza, Pasta & Co > Pasta"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7937"
+      }
+    },
+    {
+      "externalId": "7945",
+      "name": {
+        "de": "Eintöpfe"
+      },
+      "slug": {
+        "de": "eintoepfe"
+      },
+      "description": {
+        "de": "Kühlprodukte > Gekühlte Fertiggerichte > Suppen & Eintöpfe > Eintöpfe"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7938"
+      }
+    },
+    {
+      "externalId": "7951",
+      "name": {
+        "de": "Salate mit Mayonnaise"
+      },
+      "slug": {
+        "de": "salate-mit-mayonnaise"
+      },
+      "description": {
+        "de": "Kühlprodukte > Salate, Aufstriche & Antipasti (Gabelbissen) > Salate & Gabelbissen > Salate mit Mayonnaise"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7947"
+      }
+    },
+    {
+      "externalId": "7959",
+      "name": {
+        "de": "Süßwasserfische"
+      },
+      "slug": {
+        "de": "suesswasserfische"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fisch & Meeresfrüchte > Marinierte Fische > Süßwasserfische"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7953"
+      }
+    },
+    {
+      "externalId": "7961",
+      "name": {
+        "de": "Sonstige Räucherfische"
+      },
+      "slug": {
+        "de": "sonstige-raeucherfische"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fisch & Meeresfrüchte > Räucherfisch & Räucherlachs > Sonstige Räucherfische"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7955"
+      }
+    },
+    {
+      "externalId": "7963",
+      "name": {
+        "de": "Kaviarersatz"
+      },
+      "slug": {
+        "de": "kaviarersatz"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fisch & Meeresfrüchte > Kaviar & Kaviarersatz > Kaviarersatz"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7957"
+      }
+    },
+    {
+      "externalId": "7992",
+      "name": {
+        "de": "Schweinefleisch zum Braten"
+      },
+      "slug": {
+        "de": "schweinefleisch-zum-braten"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Schweinefleisch > Schweinefleisch zum Braten"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7964"
+      }
+    },
+    {
+      "externalId": "8001",
+      "name": {
+        "de": "Kalbfleisch zum Braten"
+      },
+      "slug": {
+        "de": "kalbfleisch-zum-braten"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Kalbfleisch > Kalbfleisch zum Braten"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7965"
+      }
+    },
+    {
+      "externalId": "8010",
+      "name": {
+        "de": "Lammfleisch zum Braten"
+      },
+      "slug": {
+        "de": "lammfleisch-zum-braten"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Lammfleisch > Lammfleisch zum Braten"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7966"
+      }
+    },
+    {
+      "externalId": "8018",
+      "name": {
+        "de": "Reh"
+      },
+      "slug": {
+        "de": "reh"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Wild > Reh"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7967"
+      }
+    },
+    {
+      "externalId": "8023",
+      "name": {
+        "de": "Hühnerteile natur"
+      },
+      "slug": {
+        "de": "huehnerteile-natur"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Huhn > Hühnerteile natur"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7977"
+      }
+    },
+    {
+      "externalId": "7861",
+      "name": {
+        "de": "Pfefferoni"
+      },
+      "slug": {
+        "de": "pfefferoni"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Paprika, Pfeffer & Chili > Pfefferoni"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7842"
+      }
+    },
+    {
+      "externalId": "7864",
+      "name": {
+        "de": "Cherry-Tomaten"
+      },
+      "slug": {
+        "de": "cherrytomaten"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Tomaten & Gurken > Cherry-Tomaten"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7843"
+      }
+    },
+    {
+      "externalId": "7867",
+      "name": {
+        "de": "Melanzani"
+      },
+      "slug": {
+        "de": "melanzani"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Zucchini, Melanzano & Co > Melanzani"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7844"
+      }
+    },
+    {
+      "externalId": "7869",
+      "name": {
+        "de": "Kohlgemüse"
+      },
+      "slug": {
+        "de": "kohlgemuese"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Broccoli, Kohlgemüse, Spinat & Kraut > Kohlgemüse"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7845"
+      }
+    },
+    {
+      "externalId": "7872",
+      "name": {
+        "de": "Knoblauch"
+      },
+      "slug": {
+        "de": "knoblauch"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Zwiebel & Knoblauch > Knoblauch"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7846"
+      }
+    },
+    {
+      "externalId": "7874",
+      "name": {
+        "de": "Eierschwammerl"
+      },
+      "slug": {
+        "de": "eierschwammerl"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Pilze > Eierschwammerl"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7847"
+      }
+    },
+    {
+      "externalId": "7883",
+      "name": {
+        "de": "Zuckererbsen"
+      },
+      "slug": {
+        "de": "zuckererbsen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Hülsenfrüchte > Zuckererbsen"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7848"
+      }
+    },
+    {
+      "externalId": "7893",
+      "name": {
+        "de": "Schnittlauch"
+      },
+      "slug": {
+        "de": "schnittlauch"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Küchen- & Gewürzkräuter > Schnittlauch"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7849"
+      }
+    },
+    {
+      "externalId": "7898",
+      "name": {
+        "de": "Sellerie"
+      },
+      "slug": {
+        "de": "sellerie"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Karotten & Wurzelgemüse > Sellerie"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7850"
+      }
+    },
+    {
+      "externalId": "7903",
+      "name": {
+        "de": "Sonstiges Convenience-Gemüse"
+      },
+      "slug": {
+        "de": "sonstiges-conveniencegemuese"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Convenience-Gemüse > Sonstiges Convenience-Gemüse"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7852"
+      }
+    },
+    {
+      "externalId": "7907",
+      "name": {
+        "de": "Haltbarmilch"
+      },
+      "slug": {
+        "de": "haltbarmilch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Milch > Haltbarmilch"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7771"
+      }
+    },
+    {
+      "externalId": "7914",
+      "name": {
+        "de": "Margarine"
+      },
+      "slug": {
+        "de": "margarine"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Butter & Margarine > Margarine"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7772"
+      }
+    },
+    {
+      "externalId": "7782",
+      "name": {
+        "de": "Schnittkäse"
+      },
+      "slug": {
+        "de": "schnittkaese"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse > Schnittkäse"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7773"
+      }
+    },
+    {
+      "externalId": "7917",
+      "name": {
+        "de": "Fruchtjoghurt"
+      },
+      "slug": {
+        "de": "fruchtjoghurt"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Joghurt & Joghurtdrinks > Fruchtjoghurt"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7774"
+      }
+    },
+    {
+      "externalId": "7706",
+      "name": {
+        "de": "Grapefruit"
+      },
+      "slug": {
+        "de": "grapefruit"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Zitrusfrüchte > Grapefruit"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7696"
+      }
+    },
+    {
+      "externalId": "7712",
+      "name": {
+        "de": "Rote Äpfel"
+      },
+      "slug": {
+        "de": "rote-aepfel"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Äpfel & Birnen > Rote Äpfel"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7697"
+      }
+    },
+    {
+      "externalId": "7717",
+      "name": {
+        "de": "Mango"
+      },
+      "slug": {
+        "de": "mango"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Exoten > Mango"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7699"
+      }
+    },
+    {
+      "externalId": "7723",
+      "name": {
+        "de": "Heidelbeeren"
+      },
+      "slug": {
+        "de": "heidelbeeren"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Beeren > Heidelbeeren"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7700"
+      }
+    },
+    {
+      "externalId": "7728",
+      "name": {
+        "de": "Rote Trauben"
+      },
+      "slug": {
+        "de": "rote-trauben"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Trauben > Rote Trauben"
+      },
+      "orderHint": "20",
+      "parent": {
+        "id": "7701"
+      }
+    },
+    {
+      "externalId": "8159",
+      "name": {
+        "de": "Suppen mit Fisch"
+      },
+      "slug": {
+        "de": "suppen-mit-fisch"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Fertiggerichte & Co > Suppen > Suppen mit Fisch"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8152"
+      }
+    },
+    {
+      "externalId": "8168",
+      "name": {
+        "de": "Champignons & Pilze"
+      },
+      "slug": {
+        "de": "champignons-und-pilze"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Gemüsekonserven > Champignons & Pilze"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8160"
+      }
+    },
+    {
+      "externalId": "8173",
+      "name": {
+        "de": "Ananas"
+      },
+      "slug": {
+        "de": "ananas"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Obst & Kompott > Ananas"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8161"
+      }
+    },
+    {
+      "externalId": "8179",
+      "name": {
+        "de": "Pfefferoni"
+      },
+      "slug": {
+        "de": "pfefferoni"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Sauerwaren > Pfefferoni"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8162"
+      }
+    },
+    {
+      "externalId": "8452",
+      "name": {
+        "de": "Apfelessig"
+      },
+      "slug": {
+        "de": "apfelessig"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Essig > Apfelessig"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8445"
+      }
+    },
+    {
+      "externalId": "8457",
+      "name": {
+        "de": "Olivenöl"
+      },
+      "slug": {
+        "de": "olivenoel"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Öle > Olivenöl"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8446"
+      }
+    },
+    {
+      "externalId": "7807",
+      "name": {
+        "de": "Still"
+      },
+      "slug": {
+        "de": "still"
+      },
+      "description": {
+        "de": "Getränke > Wasser > Mineralwasser > Still"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7802"
+      }
+    },
+    {
+      "externalId": "7817",
+      "name": {
+        "de": "Rotwein aus Italien"
+      },
+      "slug": {
+        "de": "rotwein-aus-italien"
+      },
+      "description": {
+        "de": "Getränke > Wein, Sekt & Champagner > Rotwein > Rotwein aus Italien"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7808"
+      }
+    },
+    {
+      "externalId": "8444",
+      "name": {
+        "de": "Klarspüler"
+      },
+      "slug": {
+        "de": "klarspueler"
+      },
+      "description": {
+        "de": "Haushalt > Putzen & Reinigen > Geschirrspülmittel > Klarspüler"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8441"
+      }
+    },
+    {
+      "externalId": "8478",
+      "name": {
+        "de": "LED Lampen"
+      },
+      "slug": {
+        "de": "led-lampen"
+      },
+      "description": {
+        "de": "Haushalt > Haushaltsgeräte & Zubehör > Licht & Batterien > LED Lampen"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8473"
+      }
+    },
+    {
+      "externalId": "8425",
+      "name": {
+        "de": "Balsam"
+      },
+      "slug": {
+        "de": "balsam"
+      },
+      "description": {
+        "de": "Drogerie > Haarpflege > Shampoo & Pflege > Balsam"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8420"
+      }
+    },
+    {
+      "externalId": "8027",
+      "name": {
+        "de": "Putenteile mariniert"
+      },
+      "slug": {
+        "de": "putenteile-mariniert"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Pute & Truthahn > Putenteile mariniert"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7978"
+      }
+    },
+    {
+      "externalId": "7984",
+      "name": {
+        "de": "Rindfleisch für Geschnetzeltes"
+      },
+      "slug": {
+        "de": "rindfleisch-fuer-geschnetzeltes"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Rindfleisch > Rindfleisch für Geschnetzeltes"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7981"
+      }
+    },
+    {
+      "externalId": "8045",
+      "name": {
+        "de": "Wiener"
+      },
+      "slug": {
+        "de": "wiener"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Wurst > Wiener"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8034"
+      }
+    },
+    {
+      "externalId": "8054",
+      "name": {
+        "de": "Cabanossi"
+      },
+      "slug": {
+        "de": "cabanossi"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Salami & Rohwurst > Cabanossi"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8036"
+      }
+    },
+    {
+      "externalId": "8059",
+      "name": {
+        "de": "Debreziner"
+      },
+      "slug": {
+        "de": "debreziner"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Würstel > Debreziner"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8039"
+      }
+    },
+    {
+      "externalId": "8066",
+      "name": {
+        "de": "Fleischaufstriche (Riette)"
+      },
+      "slug": {
+        "de": "fleischaufstriche-riette"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Streichwurst, Pasteten & Fleischaufstriche (Riette) > Fleischaufstriche (Riette)"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8040"
+      }
+    },
+    {
+      "externalId": "8097",
+      "name": {
+        "de": "Putenfilets"
+      },
+      "slug": {
+        "de": "putenfilets"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Fleisch & Geflügel > Huhn & Pute > Putenfilets"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8088"
+      }
+    },
+    {
+      "externalId": "7600",
+      "name": {
+        "de": "Broccoli"
+      },
+      "slug": {
+        "de": "broccoli"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Erbsen, Karotten & Sprossen > Broccoli"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7591"
+      }
+    },
+    {
+      "externalId": "8107",
+      "name": {
+        "de": "Sonstige Mehlspeisen"
+      },
+      "slug": {
+        "de": "sonstige-mehlspeisen"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Torten, Mehlspeisen & Früchte > Mehlspeisen & Knödel > Sonstige Mehlspeisen"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "8102"
+      }
+    },
+    {
+      "externalId": "7918",
+      "name": {
+        "de": "Joghurtdrinks"
+      },
+      "slug": {
+        "de": "joghurtdrinks"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Joghurt & Joghurtdrinks > Joghurtdrinks"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7774"
+      }
+    },
+    {
+      "externalId": "7921",
+      "name": {
+        "de": "Sonstige Milchmischgetränke"
+      },
+      "slug": {
+        "de": "sonstige-milchmischgetraenke"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Milchmisch- & Molkereiprodukte > Sonstige Milchmischgetränke"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7775"
+      }
+    },
+    {
+      "externalId": "7929",
+      "name": {
+        "de": "Frisches Müsli"
+      },
+      "slug": {
+        "de": "frisches-muesli"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Pudding, Dessert & Müsli > Frisches Müsli"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7778"
+      }
+    },
+    {
+      "externalId": "7933",
+      "name": {
+        "de": "Wachteleier"
+      },
+      "slug": {
+        "de": "wachteleier"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Eier > Wachteleier"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7780"
+      }
+    },
+    {
+      "externalId": "7952",
+      "name": {
+        "de": "Salate mit Marinade"
+      },
+      "slug": {
+        "de": "salate-mit-marinade"
+      },
+      "description": {
+        "de": "Kühlprodukte > Salate, Aufstriche & Antipasti (Gabelbissen) > Salate & Gabelbissen > Salate mit Marinade"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7947"
+      }
+    },
+    {
+      "externalId": "7993",
+      "name": {
+        "de": "Schweinefleisch für Geschnetzeltes"
+      },
+      "slug": {
+        "de": "schweinefleisch-fuer-geschnetzeltes"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Schweinefleisch > Schweinefleisch für Geschnetzeltes"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7964"
+      }
+    },
+    {
+      "externalId": "8002",
+      "name": {
+        "de": "Kalbfleisch für Geschnetzeltes"
+      },
+      "slug": {
+        "de": "kalbfleisch-fuer-geschnetzeltes"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Kalbfleisch > Kalbfleisch für Geschnetzeltes"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7965"
+      }
+    },
+    {
+      "externalId": "8011",
+      "name": {
+        "de": "Lammfleisch für Geschnetzeltes"
+      },
+      "slug": {
+        "de": "lammfleisch-fuer-geschnetzeltes"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Lammfleisch > Lammfleisch für Geschnetzeltes"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7966"
+      }
+    },
+    {
+      "externalId": "8019",
+      "name": {
+        "de": "Fedriges Wild"
+      },
+      "slug": {
+        "de": "fedriges-wild"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Wild > Fedriges Wild"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7967"
+      }
+    },
+    {
+      "externalId": "8024",
+      "name": {
+        "de": "Hühnerteile mariniert"
+      },
+      "slug": {
+        "de": "huehnerteile-mariniert"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Huhn > Hühnerteile mariniert"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7977"
+      }
+    },
+    {
+      "externalId": "7862",
+      "name": {
+        "de": "Chili"
+      },
+      "slug": {
+        "de": "chili"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Paprika, Pfeffer & Chili > Chili"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7842"
+      }
+    },
+    {
+      "externalId": "7865",
+      "name": {
+        "de": "Gurken"
+      },
+      "slug": {
+        "de": "gurken"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Tomaten & Gurken > Gurken"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7843"
+      }
+    },
+    {
+      "externalId": "7870",
+      "name": {
+        "de": "Spinat"
+      },
+      "slug": {
+        "de": "spinat"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Broccoli, Kohlgemüse, Spinat & Kraut > Spinat"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7845"
+      }
+    },
+    {
+      "externalId": "7875",
+      "name": {
+        "de": "Steinpilze"
+      },
+      "slug": {
+        "de": "steinpilze"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Pilze > Steinpilze"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7847"
+      }
+    },
+    {
+      "externalId": "7880",
+      "name": {
+        "de": "Bohnen"
+      },
+      "slug": {
+        "de": "bohnen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Hülsenfrüchte > Bohnen"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7848"
+      }
+    },
+    {
+      "externalId": "7894",
+      "name": {
+        "de": "Dille"
+      },
+      "slug": {
+        "de": "dille"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Küchen- & Gewürzkräuter > Dille"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7849"
+      }
+    },
+    {
+      "externalId": "7899",
+      "name": {
+        "de": "Radieschen"
+      },
+      "slug": {
+        "de": "radieschen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Karotten & Wurzelgemüse > Radieschen"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7850"
+      }
+    },
+    {
+      "externalId": "7908",
+      "name": {
+        "de": "Leichtmilch"
+      },
+      "slug": {
+        "de": "leichtmilch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Milch > Leichtmilch"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7771"
+      }
+    },
+    {
+      "externalId": "7915",
+      "name": {
+        "de": "Sonstige Fette"
+      },
+      "slug": {
+        "de": "sonstige-fette"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Butter & Margarine > Sonstige Fette"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7772"
+      }
+    },
+    {
+      "externalId": "7783",
+      "name": {
+        "de": "Weichkäse"
+      },
+      "slug": {
+        "de": "weichkaese"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse > Weichkäse"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7773"
+      }
+    },
+    {
+      "externalId": "7707",
+      "name": {
+        "de": "Zitronen"
+      },
+      "slug": {
+        "de": "zitronen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Zitrusfrüchte > Zitronen"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7696"
+      }
+    },
+    {
+      "externalId": "7713",
+      "name": {
+        "de": "Gelbe Äpfel"
+      },
+      "slug": {
+        "de": "gelbe-aepfel"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Äpfel & Birnen > Gelbe Äpfel"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7697"
+      }
+    },
+    {
+      "externalId": "7718",
+      "name": {
+        "de": "Ananas"
+      },
+      "slug": {
+        "de": "ananas"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Exoten > Ananas"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7699"
+      }
+    },
+    {
+      "externalId": "7724",
+      "name": {
+        "de": "Himbeeren"
+      },
+      "slug": {
+        "de": "himbeeren"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Beeren > Himbeeren"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7700"
+      }
+    },
+    {
+      "externalId": "7729",
+      "name": {
+        "de": "Schwarze Trauben"
+      },
+      "slug": {
+        "de": "schwarze-trauben"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Trauben > Schwarze Trauben"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7701"
+      }
+    },
+    {
+      "externalId": "7732",
+      "name": {
+        "de": "Honigmelonen"
+      },
+      "slug": {
+        "de": "honigmelonen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Melonen > Honigmelonen"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7702"
+      }
+    },
+    {
+      "externalId": "7737",
+      "name": {
+        "de": "Zwetschken"
+      },
+      "slug": {
+        "de": "zwetschken"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Steinobst > Zwetschken"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7703"
+      }
+    },
+    {
+      "externalId": "7752",
+      "name": {
+        "de": "Walnüsse"
+      },
+      "slug": {
+        "de": "walnuesse"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Nüsse > Walnüsse"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7744"
+      }
+    },
+    {
+      "externalId": "7833",
+      "name": {
+        "de": "Sonnenblumenkerne"
+      },
+      "slug": {
+        "de": "sonnenblumenkerne"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Kerne > Sonnenblumenkerne"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7745"
+      }
+    },
+    {
+      "externalId": "7857",
+      "name": {
+        "de": "Mehlige Erdäpfel"
+      },
+      "slug": {
+        "de": "mehlige-erdaepfel"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Erdäpfel > Mehlige Erdäpfel"
+      },
+      "orderHint": "30",
+      "parent": {
+        "id": "7841"
+      }
+    },
+    {
+      "externalId": "8169",
+      "name": {
+        "de": "Tomatenprodukte"
+      },
+      "slug": {
+        "de": "tomatenprodukte"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Gemüsekonserven > Tomatenprodukte"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8160"
+      }
+    },
+    {
+      "externalId": "8174",
+      "name": {
+        "de": "Fruchtsalate"
+      },
+      "slug": {
+        "de": "fruchtsalate"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Obst & Kompott > Fruchtsalate"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8161"
+      }
+    },
+    {
+      "externalId": "8180",
+      "name": {
+        "de": "Sauerkraut"
+      },
+      "slug": {
+        "de": "sauerkraut"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Sauerwaren > Sauerkraut"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8162"
+      }
+    },
+    {
+      "externalId": "8453",
+      "name": {
+        "de": "Weinessig"
+      },
+      "slug": {
+        "de": "weinessig"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Essig > Weinessig"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8445"
+      }
+    },
+    {
+      "externalId": "8458",
+      "name": {
+        "de": "Kernöl"
+      },
+      "slug": {
+        "de": "kernoel"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Öle > Kernöl"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8446"
+      }
+    },
+    {
+      "externalId": "7818",
+      "name": {
+        "de": "Rotwein aus Spanien"
+      },
+      "slug": {
+        "de": "rotwein-aus-spanien"
+      },
+      "description": {
+        "de": "Getränke > Wein, Sekt & Champagner > Rotwein > Rotwein aus Spanien"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7808"
+      }
+    },
+    {
+      "externalId": "8480",
+      "name": {
+        "de": "Taschenlampen"
+      },
+      "slug": {
+        "de": "taschenlampen"
+      },
+      "description": {
+        "de": "Haushalt > Haushaltsgeräte & Zubehör > Licht & Batterien > Taschenlampen"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8473"
+      }
+    },
+    {
+      "externalId": "8426",
+      "name": {
+        "de": "Conditioner & Spülungen"
+      },
+      "slug": {
+        "de": "conditioner-und-spuelungen"
+      },
+      "description": {
+        "de": "Drogerie > Haarpflege > Shampoo & Pflege > Conditioner & Spülungen"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8420"
+      }
+    },
+    {
+      "externalId": "7985",
+      "name": {
+        "de": "Rindfleisch für Schnitzel"
+      },
+      "slug": {
+        "de": "rindfleisch-fuer-schnitzel"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Rindfleisch > Rindfleisch für Schnitzel"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7981"
+      }
+    },
+    {
+      "externalId": "8046",
+      "name": {
+        "de": "Käswurst"
+      },
+      "slug": {
+        "de": "kaeswurst"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Wurst > Käswurst"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8034"
+      }
+    },
+    {
+      "externalId": "8060",
+      "name": {
+        "de": "Krainer"
+      },
+      "slug": {
+        "de": "krainer"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Würstel > Krainer"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "8039"
+      }
+    },
+    {
+      "externalId": "7601",
+      "name": {
+        "de": "Fisolen"
+      },
+      "slug": {
+        "de": "fisolen"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Erbsen, Karotten & Sprossen > Fisolen"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7591"
+      }
+    },
+    {
+      "externalId": "7922",
+      "name": {
+        "de": "Molkegetränke"
+      },
+      "slug": {
+        "de": "molkegetraenke"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Milchmisch- & Molkereiprodukte > Molkegetränke"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7775"
+      }
+    },
+    {
+      "externalId": "7930",
+      "name": {
+        "de": "Fruchtmus"
+      },
+      "slug": {
+        "de": "fruchtmus"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Pudding, Dessert & Müsli > Fruchtmus"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7778"
+      }
+    },
+    {
+      "externalId": "7994",
+      "name": {
+        "de": "Schweinefleisch für Schnitzel"
+      },
+      "slug": {
+        "de": "schweinefleisch-fuer-schnitzel"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Schweinefleisch > Schweinefleisch für Schnitzel"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7964"
+      }
+    },
+    {
+      "externalId": "8003",
+      "name": {
+        "de": "Kalbfleisch für Schnitzel"
+      },
+      "slug": {
+        "de": "kalbfleisch-fuer-schnitzel"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Kalbfleisch > Kalbfleisch für Schnitzel"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7965"
+      }
+    },
+    {
+      "externalId": "8012",
+      "name": {
+        "de": "Lammfleisch für Schnitzel"
+      },
+      "slug": {
+        "de": "lammfleisch-fuer-schnitzel"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Lammfleisch > Lammfleisch für Schnitzel"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7966"
+      }
+    },
+    {
+      "externalId": "8020",
+      "name": {
+        "de": "Wildschwein"
+      },
+      "slug": {
+        "de": "wildschwein"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Wild > Wildschwein"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7967"
+      }
+    },
+    {
+      "externalId": "7876",
+      "name": {
+        "de": "Getrocknete Pilze"
+      },
+      "slug": {
+        "de": "getrocknete-pilze"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Pilze > Getrocknete Pilze"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7847"
+      }
+    },
+    {
+      "externalId": "7881",
+      "name": {
+        "de": "Linsen"
+      },
+      "slug": {
+        "de": "linsen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Hülsenfrüchte > Linsen"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7848"
+      }
+    },
+    {
+      "externalId": "7895",
+      "name": {
+        "de": "Basilikum"
+      },
+      "slug": {
+        "de": "basilikum"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Küchen- & Gewürzkräuter > Basilikum"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7849"
+      }
+    },
+    {
+      "externalId": "7900",
+      "name": {
+        "de": "Rettich & Kren"
+      },
+      "slug": {
+        "de": "rettich-und-kren"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Karotten & Wurzelgemüse > Rettich & Kren"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7850"
+      }
+    },
+    {
+      "externalId": "7909",
+      "name": {
+        "de": "Laktosefreie Milch"
+      },
+      "slug": {
+        "de": "laktosefreie-milch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Milch > Laktosefreie Milch"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7771"
+      }
+    },
+    {
+      "externalId": "7784",
+      "name": {
+        "de": "Frisch- & Landfrischkäse"
+      },
+      "slug": {
+        "de": "frisch-und-landfrischkaese"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse > Frisch- & Landfrischkäse"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7773"
+      }
+    },
+    {
+      "externalId": "7708",
+      "name": {
+        "de": "Clementinen, Mandarinen & Satsumas"
+      },
+      "slug": {
+        "de": "clementinen-mandarinen-und-satsumas"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Zitrusfrüchte > Clementinen, Mandarinen & Satsumas"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7696"
+      }
+    },
+    {
+      "externalId": "7714",
+      "name": {
+        "de": "Sonstige Äpfel"
+      },
+      "slug": {
+        "de": "sonstige-aepfel"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Äpfel & Birnen > Sonstige Äpfel"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7697"
+      }
+    },
+    {
+      "externalId": "7719",
+      "name": {
+        "de": "Papaya"
+      },
+      "slug": {
+        "de": "papaya"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Exoten > Papaya"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7699"
+      }
+    },
+    {
+      "externalId": "7725",
+      "name": {
+        "de": "Brombeeren"
+      },
+      "slug": {
+        "de": "brombeeren"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Beeren > Brombeeren"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7700"
+      }
+    },
+    {
+      "externalId": "7733",
+      "name": {
+        "de": "Galiamelonen"
+      },
+      "slug": {
+        "de": "galiamelonen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Melonen > Galiamelonen"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7702"
+      }
+    },
+    {
+      "externalId": "7738",
+      "name": {
+        "de": "Marillen"
+      },
+      "slug": {
+        "de": "marillen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Steinobst > Marillen"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7703"
+      }
+    },
+    {
+      "externalId": "7753",
+      "name": {
+        "de": "Erdnüsse"
+      },
+      "slug": {
+        "de": "erdnuesse"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Nüsse > Erdnüsse"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7744"
+      }
+    },
+    {
+      "externalId": "7834",
+      "name": {
+        "de": "Sonstige Kerne"
+      },
+      "slug": {
+        "de": "sonstige-kerne"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Kerne > Sonstige Kerne"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7745"
+      }
+    },
+    {
+      "externalId": "7858",
+      "name": {
+        "de": "Süßkartoffel"
+      },
+      "slug": {
+        "de": "suesskartoffel"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Erdäpfel > Süßkartoffel"
+      },
+      "orderHint": "40",
+      "parent": {
+        "id": "7841"
+      }
+    },
+    {
+      "externalId": "7726",
+      "name": {
+        "de": "Sonstige Beeren"
+      },
+      "slug": {
+        "de": "sonstige-beeren"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Beeren > Sonstige Beeren"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7700"
+      }
+    },
+    {
+      "externalId": "7720",
+      "name": {
+        "de": "Avocado"
+      },
+      "slug": {
+        "de": "avocado"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Exoten > Avocado"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7699"
+      }
+    },
+    {
+      "externalId": "7739",
+      "name": {
+        "de": "Kirschen"
+      },
+      "slug": {
+        "de": "kirschen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Steinobst > Kirschen"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7703"
+      }
+    },
+    {
+      "externalId": "7754",
+      "name": {
+        "de": "Cashew-Nüsse"
+      },
+      "slug": {
+        "de": "cashewnuesse"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Nüsse > Cashew-Nüsse"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7744"
+      }
+    },
+    {
+      "externalId": "7859",
+      "name": {
+        "de": "Sonstige Erdäpfel"
+      },
+      "slug": {
+        "de": "sonstige-erdaepfel"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Erdäpfel > Sonstige Erdäpfel"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7841"
+      }
+    },
+    {
+      "externalId": "8170",
+      "name": {
+        "de": "Oliven"
+      },
+      "slug": {
+        "de": "oliven"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Gemüsekonserven > Oliven"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8160"
+      }
+    },
+    {
+      "externalId": "8175",
+      "name": {
+        "de": "Kompott"
+      },
+      "slug": {
+        "de": "kompott"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Obst & Kompott > Kompott"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8161"
+      }
+    },
+    {
+      "externalId": "8181",
+      "name": {
+        "de": "Maiskölbchen & Silberzwiebel"
+      },
+      "slug": {
+        "de": "maiskoelbchen-und-silberzwiebel"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Sauerwaren > Maiskölbchen & Silberzwiebel"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8162"
+      }
+    },
+    {
+      "externalId": "8454",
+      "name": {
+        "de": "Spezialessig"
+      },
+      "slug": {
+        "de": "spezialessig"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Essig > Spezialessig"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8445"
+      }
+    },
+    {
+      "externalId": "8459",
+      "name": {
+        "de": "Sonnenblumenöl"
+      },
+      "slug": {
+        "de": "sonnenblumenoel"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Öle > Sonnenblumenöl"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8446"
+      }
+    },
+    {
+      "externalId": "8479",
+      "name": {
+        "de": "Akkus & Batterien"
+      },
+      "slug": {
+        "de": "akkus-und-batterien"
+      },
+      "description": {
+        "de": "Haushalt > Haushaltsgeräte & Zubehör > Licht & Batterien > Akkus & Batterien"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8473"
+      }
+    },
+    {
+      "externalId": "8427",
+      "name": {
+        "de": "Haarmasken & Haarkuren"
+      },
+      "slug": {
+        "de": "haarmasken-und-haarkuren"
+      },
+      "description": {
+        "de": "Drogerie > Haarpflege > Shampoo & Pflege > Haarmasken & Haarkuren"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8420"
+      }
+    },
+    {
+      "externalId": "7986",
+      "name": {
+        "de": "Rindfleisch für Rouladen & Cordon bleu"
+      },
+      "slug": {
+        "de": "rindfleisch-fuer-rouladen-und-cordon-bleu"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Rindfleisch > Rindfleisch für Rouladen & Cordon bleu"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7981"
+      }
+    },
+    {
+      "externalId": "8047",
+      "name": {
+        "de": "Polnische"
+      },
+      "slug": {
+        "de": "polnische"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Wurst > Polnische"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8034"
+      }
+    },
+    {
+      "externalId": "8061",
+      "name": {
+        "de": "Grillwürstel"
+      },
+      "slug": {
+        "de": "grillwuerstel"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Würstel > Grillwürstel"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "8039"
+      }
+    },
+    {
+      "externalId": "7602",
+      "name": {
+        "de": "Mais"
+      },
+      "slug": {
+        "de": "mais"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Erbsen, Karotten & Sprossen > Mais"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7591"
+      }
+    },
+    {
+      "externalId": "7995",
+      "name": {
+        "de": "Schweinefleisch für Rouladen & Cordon bleu"
+      },
+      "slug": {
+        "de": "schweinefleisch-fuer-rouladen-und-cordon-bleu"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Schweinefleisch > Schweinefleisch für Rouladen & Cordon bleu"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7964"
+      }
+    },
+    {
+      "externalId": "8004",
+      "name": {
+        "de": "Kalbfleisch für Rouladen & Cordon bleu"
+      },
+      "slug": {
+        "de": "kalbfleisch-fuer-rouladen-und-cordon-bleu"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Kalbfleisch > Kalbfleisch für Rouladen & Cordon bleu"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7965"
+      }
+    },
+    {
+      "externalId": "8013",
+      "name": {
+        "de": "Lammfleisch zum Grillen & Kurzbraten (Steaks)"
+      },
+      "slug": {
+        "de": "lammfleisch-zum-grillen-und-kurzbraten-steaks"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Lammfleisch > Lammfleisch zum Grillen & Kurzbraten (Steaks)"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7966"
+      }
+    },
+    {
+      "externalId": "8021",
+      "name": {
+        "de": "Hase"
+      },
+      "slug": {
+        "de": "hase"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Wild > Hase"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7967"
+      }
+    },
+    {
+      "externalId": "7877",
+      "name": {
+        "de": "Pilzmischungen"
+      },
+      "slug": {
+        "de": "pilzmischungen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Pilze > Pilzmischungen"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7847"
+      }
+    },
+    {
+      "externalId": "7882",
+      "name": {
+        "de": "Sojasprossen"
+      },
+      "slug": {
+        "de": "sojasprossen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Hülsenfrüchte > Sojasprossen"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7848"
+      }
+    },
+    {
+      "externalId": "7896",
+      "name": {
+        "de": "Sonstige Kräuter"
+      },
+      "slug": {
+        "de": "sonstige-kraeuter"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Küchen- & Gewürzkräuter > Sonstige Kräuter"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7849"
+      }
+    },
+    {
+      "externalId": "7901",
+      "name": {
+        "de": "Sonstiges Wurzelgemüse"
+      },
+      "slug": {
+        "de": "sonstiges-wurzelgemuese"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Karotten & Wurzelgemüse > Sonstiges Wurzelgemüse"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7850"
+      }
+    },
+    {
+      "externalId": "7910",
+      "name": {
+        "de": "Soja- & Reismilch"
+      },
+      "slug": {
+        "de": "soja-und-reismilch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Milch > Soja- & Reismilch"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7771"
+      }
+    },
+    {
+      "externalId": "7785",
+      "name": {
+        "de": "Schmelzkäse"
+      },
+      "slug": {
+        "de": "schmelzkaese"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse > Schmelzkäse"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7773"
+      }
+    },
+    {
+      "externalId": "7709",
+      "name": {
+        "de": "Limetten"
+      },
+      "slug": {
+        "de": "limetten"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Zitrusfrüchte > Limetten"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7696"
+      }
+    },
+    {
+      "externalId": "7715",
+      "name": {
+        "de": "Birnen"
+      },
+      "slug": {
+        "de": "birnen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Äpfel & Birnen > Birnen"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7697"
+      }
+    },
+    {
+      "externalId": "7734",
+      "name": {
+        "de": "Sonstige Melonen"
+      },
+      "slug": {
+        "de": "sonstige-melonen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Melonen > Sonstige Melonen"
+      },
+      "orderHint": "50",
+      "parent": {
+        "id": "7702"
+      }
+    },
+    {
+      "externalId": "7740",
+      "name": {
+        "de": "Pflaumen"
+      },
+      "slug": {
+        "de": "pflaumen"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Steinobst > Pflaumen"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7703"
+      }
+    },
+    {
+      "externalId": "7755",
+      "name": {
+        "de": "Macadamia-Nüsse"
+      },
+      "slug": {
+        "de": "macadamianuesse"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Nüsse > Macadamia-Nüsse"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7744"
+      }
+    },
+    {
+      "externalId": "8171",
+      "name": {
+        "de": "Sonstige Gemüsekonserven"
+      },
+      "slug": {
+        "de": "sonstige-gemuesekonserven"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Gemüsekonserven > Sonstige Gemüsekonserven"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "8160"
+      }
+    },
+    {
+      "externalId": "8176",
+      "name": {
+        "de": "Fruchtmus"
+      },
+      "slug": {
+        "de": "fruchtmus"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Obst & Kompott > Fruchtmus"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "8161"
+      }
+    },
+    {
+      "externalId": "8182",
+      "name": {
+        "de": "Sonstige Sauerwaren"
+      },
+      "slug": {
+        "de": "sonstige-sauerwaren"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Konserven > Sauerwaren > Sonstige Sauerwaren"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "8162"
+      }
+    },
+    {
+      "externalId": "8460",
+      "name": {
+        "de": "Rapsöl"
+      },
+      "slug": {
+        "de": "rapsoel"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Öle > Rapsöl"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "8446"
+      }
+    },
+    {
+      "externalId": "8428",
+      "name": {
+        "de": "Serum & Öl"
+      },
+      "slug": {
+        "de": "serum-und-oel"
+      },
+      "description": {
+        "de": "Drogerie > Haarpflege > Shampoo & Pflege > Serum & Öl"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "8420"
+      }
+    },
+    {
+      "externalId": "7987",
+      "name": {
+        "de": "Rindfleisch zum Grillen & Kurzbraten (Steaks)"
+      },
+      "slug": {
+        "de": "rindfleisch-zum-grillen-und-kurzbraten-steaks"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Rindfleisch > Rindfleisch zum Grillen & Kurzbraten (Steaks)"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7981"
+      }
+    },
+    {
+      "externalId": "8048",
+      "name": {
+        "de": "Kalbspariser"
+      },
+      "slug": {
+        "de": "kalbspariser"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Wurst > Kalbspariser"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "8034"
+      }
+    },
+    {
+      "externalId": "8062",
+      "name": {
+        "de": "Geflügel-Würstel"
+      },
+      "slug": {
+        "de": "gefluegelwuerstel"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Würstel > Geflügel-Würstel"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "8039"
+      }
+    },
+    {
+      "externalId": "7603",
+      "name": {
+        "de": "Kohlsprossen"
+      },
+      "slug": {
+        "de": "kohlsprossen"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Erbsen, Karotten & Sprossen > Kohlsprossen"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7591"
+      }
+    },
+    {
+      "externalId": "7996",
+      "name": {
+        "de": "Schweinefleisch zum Grillen & Kurzbraten (Steaks)"
+      },
+      "slug": {
+        "de": "schweinefleisch-zum-grillen-und-kurzbraten-steaks"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Schweinefleisch > Schweinefleisch zum Grillen & Kurzbraten (Steaks)"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7964"
+      }
+    },
+    {
+      "externalId": "8005",
+      "name": {
+        "de": "Kalbfleisch zum Grillen & Kurzbraten (Steaks)"
+      },
+      "slug": {
+        "de": "kalbfleisch-zum-grillen-und-kurzbraten-steaks"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Kalbfleisch > Kalbfleisch zum Grillen & Kurzbraten (Steaks)"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7965"
+      }
+    },
+    {
+      "externalId": "8014",
+      "name": {
+        "de": "Lammfleisch für Gulasch"
+      },
+      "slug": {
+        "de": "lammfleisch-fuer-gulasch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Lammfleisch > Lammfleisch für Gulasch"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7966"
+      }
+    },
+    {
+      "externalId": "7878",
+      "name": {
+        "de": "Sonstige Pilze"
+      },
+      "slug": {
+        "de": "sonstige-pilze"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Pilze > Sonstige Pilze"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7847"
+      }
+    },
+    {
+      "externalId": "7891",
+      "name": {
+        "de": "Chili"
+      },
+      "slug": {
+        "de": "chili"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Hülsenfrüchte > Chili"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7848"
+      }
+    },
+    {
+      "externalId": "7911",
+      "name": {
+        "de": "Kondensmilch"
+      },
+      "slug": {
+        "de": "kondensmilch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Milch > Kondensmilch"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7771"
+      }
+    },
+    {
+      "externalId": "7786",
+      "name": {
+        "de": "Blaukäse"
+      },
+      "slug": {
+        "de": "blaukaese"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse > Blaukäse"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7773"
+      }
+    },
+    {
+      "externalId": "7710",
+      "name": {
+        "de": "Sonstige Zitrusfrüchte"
+      },
+      "slug": {
+        "de": "sonstige-zitrusfruechte"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Zitrusfrüchte > Sonstige Zitrusfrüchte"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7696"
+      }
+    },
+    {
+      "externalId": "7721",
+      "name": {
+        "de": "Sonstige Exoten"
+      },
+      "slug": {
+        "de": "sonstige-exoten"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Exoten > Sonstige Exoten"
+      },
+      "orderHint": "60",
+      "parent": {
+        "id": "7699"
+      }
+    },
+    {
+      "externalId": "8461",
+      "name": {
+        "de": "Spezialöle"
+      },
+      "slug": {
+        "de": "spezialoele"
+      },
+      "description": {
+        "de": "Nahrungsmitel > Essig, Öl, Gewürze & Salz > Öle > Spezialöle"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "8446"
+      }
+    },
+    {
+      "externalId": "8006",
+      "name": {
+        "de": "Kalbfleisch für Gulasch"
+      },
+      "slug": {
+        "de": "kalbfleisch-fuer-gulasch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Kalbfleisch > Kalbfleisch für Gulasch"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7965"
+      }
+    },
+    {
+      "externalId": "8015",
+      "name": {
+        "de": "Lammfleisch faschiert"
+      },
+      "slug": {
+        "de": "lammfleisch-faschiert"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Lammfleisch > Lammfleisch faschiert"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7966"
+      }
+    },
+    {
+      "externalId": "7787",
+      "name": {
+        "de": "Schaf- & Ziegenkäse"
+      },
+      "slug": {
+        "de": "schaf-und-ziegenkaese"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse > Schaf- & Ziegenkäse"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7773"
+      }
+    },
+    {
+      "externalId": "7997",
+      "name": {
+        "de": "Schweinefleisch für Gulasch & Reisfleisch"
+      },
+      "slug": {
+        "de": "schweinefleisch-fuer-gulasch-und-reisfleisch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Schweinefleisch > Schweinefleisch für Gulasch & Reisfleisch"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7964"
+      }
+    },
+    {
+      "externalId": "7988",
+      "name": {
+        "de": "Rindfleisch für Gulasch & Reisfleisch"
+      },
+      "slug": {
+        "de": "rindfleisch-fuer-gulasch-und-reisfleisch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Rindfleisch > Rindfleisch für Gulasch & Reisfleisch"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7981"
+      }
+    },
+    {
+      "externalId": "7890",
+      "name": {
+        "de": "Sonstige Hülsenfrüchte"
+      },
+      "slug": {
+        "de": "sonstige-huelsenfruechte"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Gemüse > Hülsenfrüchte > Sonstige Hülsenfrüchte"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7848"
+      }
+    },
+    {
+      "externalId": "7912",
+      "name": {
+        "de": "Buttermilch"
+      },
+      "slug": {
+        "de": "buttermilch"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Milch > Buttermilch"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7771"
+      }
+    },
+    {
+      "externalId": "8049",
+      "name": {
+        "de": "Schwarzwälder"
+      },
+      "slug": {
+        "de": "schwarzwaelder"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Wurst > Schwarzwälder"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "8034"
+      }
+    },
+    {
+      "externalId": "7741",
+      "name": {
+        "de": "Sonstiges Steinobst"
+      },
+      "slug": {
+        "de": "sonstiges-steinobst"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Obst > Steinobst > Sonstiges Steinobst"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7703"
+      }
+    },
+    {
+      "externalId": "8063",
+      "name": {
+        "de": "Sonstige Würstel"
+      },
+      "slug": {
+        "de": "sonstige-wuerstel"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Würstel > Sonstige Würstel"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "8039"
+      }
+    },
+    {
+      "externalId": "7604",
+      "name": {
+        "de": "Sojasprossen"
+      },
+      "slug": {
+        "de": "sojasprossen"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Erbsen, Karotten & Sprossen > Sojasprossen"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7591"
+      }
+    },
+    {
+      "externalId": "7756",
+      "name": {
+        "de": "Studentenfutter"
+      },
+      "slug": {
+        "de": "studentenfutter"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Nüsse > Studentenfutter"
+      },
+      "orderHint": "70",
+      "parent": {
+        "id": "7744"
+      }
+    },
+    {
+      "externalId": "8007",
+      "name": {
+        "de": "Kalbfleisch faschiert"
+      },
+      "slug": {
+        "de": "kalbfleisch-faschiert"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Kalbfleisch > Kalbfleisch faschiert"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7965"
+      }
+    },
+    {
+      "externalId": "7998",
+      "name": {
+        "de": "Schweinefleisch faschiert"
+      },
+      "slug": {
+        "de": "schweinefleisch-faschiert"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Schweinefleisch > Schweinefleisch faschiert"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7964"
+      }
+    },
+    {
+      "externalId": "8050",
+      "name": {
+        "de": "Sonstige Wurst"
+      },
+      "slug": {
+        "de": "sonstige-wurst"
+      },
+      "description": {
+        "de": "Kühlprodukte > Wurst, Schinken & Speck > Wurst > Sonstige Wurst"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "8034"
+      }
+    },
+    {
+      "externalId": "7989",
+      "name": {
+        "de": "Rindfleisch faschiert"
+      },
+      "slug": {
+        "de": "rindfleisch-faschiert"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Rindfleisch > Rindfleisch faschiert"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7981"
+      }
+    },
+    {
+      "externalId": "7757",
+      "name": {
+        "de": "Schokolierte Nüsse"
+      },
+      "slug": {
+        "de": "schokolierte-nuesse"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Nüsse > Schokolierte Nüsse"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7744"
+      }
+    },
+    {
+      "externalId": "7605",
+      "name": {
+        "de": "Sonstiges Gemüse"
+      },
+      "slug": {
+        "de": "sonstiges-gemuese"
+      },
+      "description": {
+        "de": "Tiefkühlprodukte > Gemüse & Pilze > Erbsen, Karotten & Sprossen > Sonstiges Gemüse"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7591"
+      }
+    },
+    {
+      "externalId": "7788",
+      "name": {
+        "de": "Rohmilchkäse"
+      },
+      "slug": {
+        "de": "rohmilchkaese"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse > Rohmilchkäse"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7773"
+      }
+    },
+    {
+      "externalId": "8016",
+      "name": {
+        "de": "Lammfleisch küchenfertig"
+      },
+      "slug": {
+        "de": "lammfleisch-kuechenfertig"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Lammfleisch > Lammfleisch küchenfertig"
+      },
+      "orderHint": "80",
+      "parent": {
+        "id": "7966"
+      }
+    },
+    {
+      "externalId": "7789",
+      "name": {
+        "de": "Feta"
+      },
+      "slug": {
+        "de": "feta"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse > Feta"
+      },
+      "orderHint": "90",
+      "parent": {
+        "id": "7773"
+      }
+    },
+    {
+      "externalId": "7990",
+      "name": {
+        "de": "Rindfleisch küchenfertig"
+      },
+      "slug": {
+        "de": "rindfleisch-kuechenfertig"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Rindfleisch > Rindfleisch küchenfertig"
+      },
+      "orderHint": "90",
+      "parent": {
+        "id": "7981"
+      }
+    },
+    {
+      "externalId": "7758",
+      "name": {
+        "de": "Gemischte Nüsse"
+      },
+      "slug": {
+        "de": "gemischte-nuesse"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Nüsse > Gemischte Nüsse"
+      },
+      "orderHint": "90",
+      "parent": {
+        "id": "7744"
+      }
+    },
+    {
+      "externalId": "7999",
+      "name": {
+        "de": "Schweinefleisch küchenfertig"
+      },
+      "slug": {
+        "de": "schweinefleisch-kuechenfertig"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Schweinefleisch > Schweinefleisch küchenfertig"
+      },
+      "orderHint": "90",
+      "parent": {
+        "id": "7964"
+      }
+    },
+    {
+      "externalId": "8008",
+      "name": {
+        "de": "Kalbfleisch küchenfertig"
+      },
+      "slug": {
+        "de": "kalbfleisch-kuechenfertig"
+      },
+      "description": {
+        "de": "Kühlprodukte > Fleisch & Geflügel > Kalbfleisch > Kalbfleisch küchenfertig"
+      },
+      "orderHint": "90",
+      "parent": {
+        "id": "7965"
+      }
+    },
+    {
+      "externalId": "7790",
+      "name": {
+        "de": "Mozzarella & Burrata"
+      },
+      "slug": {
+        "de": "mozzarella-und-burrata"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse > Mozzarella & Burrata"
+      },
+      "orderHint": "100",
+      "parent": {
+        "id": "7773"
+      }
+    },
+    {
+      "externalId": "7759",
+      "name": {
+        "de": "Sonstige Nüsse"
+      },
+      "slug": {
+        "de": "sonstige-nuesse"
+      },
+      "description": {
+        "de": "Obst & Gemüse > Nüsse, Kerne & Trockenfrüchte > Nüsse > Sonstige Nüsse"
+      },
+      "orderHint": "100",
+      "parent": {
+        "id": "7744"
+      }
+    },
+    {
+      "externalId": "7791",
+      "name": {
+        "de": "Parmesan & Reibkäse"
+      },
+      "slug": {
+        "de": "parmesan-und-reibkaese"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse > Parmesan & Reibkäse"
+      },
+      "orderHint": "110",
+      "parent": {
+        "id": "7773"
+      }
+    },
+    {
+      "externalId": "7792",
+      "name": {
+        "de": "Grillkäse"
+      },
+      "slug": {
+        "de": "grillkaese"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse > Grillkäse"
+      },
+      "orderHint": "120",
+      "parent": {
+        "id": "7773"
+      }
+    },
+    {
+      "externalId": "7793",
+      "name": {
+        "de": "Fondue & Raclette"
+      },
+      "slug": {
+        "de": "fondue-und-raclette"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse > Fondue & Raclette"
+      },
+      "orderHint": "130",
+      "parent": {
+        "id": "7773"
+      }
+    },
+    {
+      "externalId": "7794",
+      "name": {
+        "de": "Käse in Scheiben"
+      },
+      "slug": {
+        "de": "kaese-in-scheiben"
+      },
+      "description": {
+        "de": "Kühlprodukte > Milchprodukte, Käse & Eier > Käse > Käse in Scheiben"
+      },
+      "orderHint": "140",
+      "parent": {
+        "id": "7773"
+      }
+    }
+  ]
+}
