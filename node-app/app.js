@@ -8,6 +8,7 @@ var app = express();
 var port = process.env.PORT || 3000; // process.env gets the environment variable.
 
 var urlencodedParser = bodyParser.urlencoded( { extended: false });
+var jsonParser = bodyParser.json();
 
 app.set('view engine', 'ejs'); // set the template engine.
 
@@ -25,6 +26,10 @@ app.get('/', function(req, res) {
 
 app.get('/form', function(req, res) {
 	res.render('indexform');
+});
+
+app.get('/json', function(req, res) {
+	res.render('indexjson');
 });
 // app.get('/', function(req, res) {
 // 	res.send('<html><head><link href=assets/style.css type=text/css rel=stylesheet/></head><body><h1>Hello World Express</h1></body></html>');
@@ -45,6 +50,12 @@ app.get('/personqstr/:id', function(req, res) {
 
 app.post('/person', urlencodedParser, function(req, res) {
 	res.send('Thank you!!');
+	console.log(req.body.firstname);
+	console.log(req.body.lastname);
+});
+
+app.post('/personjson', jsonParser, function(req, res) {
+	res.send('Thank yuo for the JSON data!!');
 	console.log(req.body.firstname);
 	console.log(req.body.lastname);
 });
