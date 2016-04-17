@@ -5,6 +5,9 @@ var bodyParser = require('body-parser');
 var express = require('express');
 var app = express();
 
+var apiController = require('./controllers/apiController');
+var htmlController = require('./controllers/htmlController');
+
 var port = process.env.PORT || 3000; // process.env gets the environment variable.
 
 var urlencodedParser = bodyParser.urlencoded( { extended: false });
@@ -60,8 +63,8 @@ app.post('/personjson', jsonParser, function(req, res) {
 	console.log(req.body.lastname);
 });
 
-app.get('/api', function(req, res) {
-	res.json({ firstname: 'John', lastname: 'Doe'});
-});
+apiController(app);
+
+htmlController(app);
 
 app.listen(port);
