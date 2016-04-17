@@ -7,6 +7,7 @@ var app = express();
 
 var apiController = require('./controllers/apiController');
 var htmlController = require('./controllers/htmlController');
+var birds = require('./controllers/router');
 
 var port = process.env.PORT || 3000; // process.env gets the environment variable.
 
@@ -66,5 +67,13 @@ app.post('/personjson', jsonParser, function(req, res) {
 apiController(app);
 
 htmlController(app);
+
+/**
+ * This is defining a router as a middleware
+ * advantage over conventionally adding routing methods to the app 
+ * object like above controllers, we can define the parent route `bird`
+ * it is a middleware, so has all advatanges of express middleware.
+ */
+app.use('/birds', birds);
 
 app.listen(port);
